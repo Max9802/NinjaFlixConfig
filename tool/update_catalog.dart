@@ -7,8 +7,10 @@ const _schemaVersion = 1;
 const _minimumPageCount = 40;
 const _minimumEpisodeCount = 300;
 const _siteRoot = 'https://sites.google.com/view/labibliotecaelementalninjago/';
-const _temporaryPilotArtworkVersion = 'pilot3-test-20260723';
+const _temporaryPilotArtworkVersion = 'pilot4-test-20260723';
 const _temporaryPilotSeasonId = 'ninjago/piloto-prueba-remota';
+const _temporaryPilotArtworkPath =
+    'thumbnails/1Cy_Bhqz9Tvt9QHoKYLEbVZz-RLaaTMkr.jpg';
 
 Future<void> main() async {
   final projectDirectory = Directory.current;
@@ -296,7 +298,9 @@ Map<String, Object?> _seasonDocument(
     'logicalHash': isTemporaryPilot
         ? '$_temporaryPilotArtworkVersion-${season.logicalHash}'
         : season.logicalHash,
-    'artworkPath': cover.existsSync() ? 'covers/$coverName' : firstThumbnail,
+    'artworkPath': isTemporaryPilot
+        ? _temporaryPilotArtworkPath
+        : (cover.existsSync() ? 'covers/$coverName' : firstThumbnail),
     'episodes': season.episodes
         .map(
           (episode) => <String, Object?>{
