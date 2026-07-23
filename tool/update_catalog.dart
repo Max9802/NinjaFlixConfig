@@ -7,6 +7,7 @@ const _schemaVersion = 1;
 const _minimumPageCount = 40;
 const _minimumEpisodeCount = 300;
 const _siteRoot = 'https://sites.google.com/view/labibliotecaelementalninjago/';
+const _temporaryPilotArtworkVersion = 'pilot-test-20260723';
 
 Future<void> main() async {
   final projectDirectory = Directory.current;
@@ -44,8 +45,11 @@ Future<void> main() async {
       );
     }
 
+    final publishedLogicalHash = _publishedCatalogLogicalHash(
+      catalog.logicalHash,
+    );
     final version =
-        '$_schemaVersion:${catalog.logicalHash}:${catalog.locatorHash}';
+        '$_schemaVersion:$publishedLogicalHash:${catalog.locatorHash}';
     final manifestFile = File('${publicDirectory.path}/manifest.json');
     final previousVersion = await _readPublishedVersion(manifestFile);
 
@@ -82,7 +86,7 @@ Future<void> main() async {
       'generatedAt': generatedAt,
       'catalogPath': 'catalog.json',
       'catalogBytes': catalogBytes.length,
-      'logicalHash': catalog.logicalHash,
+      'logicalHash': publishedLogicalHash,
       'locatorHash': catalog.locatorHash,
       'seriesCount': catalog.series.length,
       'seasonCount': catalog.series.fold<int>(
@@ -219,7 +223,7 @@ Map<String, Object?> _catalogDocument({
     'schemaVersion': _schemaVersion,
     'generatedAt': generatedAt,
     'source': _siteRoot,
-    'logicalHash': catalog.logicalHash,
+    'logicalHash': _publishedCatalogLogicalHash(catalog.logicalHash),
     'locatorHash': catalog.locatorHash,
     'series': catalog.series
         .map(
@@ -287,7 +291,9 @@ Map<String, Object?> _seasonDocument(
     'displayNumber': season.displayNumber,
     'canonicalCode': season.canonicalCode,
     'sortOrder': season.sortOrder,
-    'logicalHash': season.logicalHash,
+    'logicalHash': season.logicalKey == 'ninjago/piloto'
+        ? '$_temporaryPilotArtworkVersion-${season.logicalHash}'
+        : season.logicalHash,
     'artworkPath': cover.existsSync() ? 'covers/$coverName' : firstThumbnail,
     'episodes': season.episodes
         .map(
@@ -326,6 +332,9 @@ Map<String, Object?> _seasonDocument(
         .toList(growable: false),
   };
 }
+
+String _publishedCatalogLogicalHash(String sourceHash) =>
+    '$_temporaryPilotArtworkVersion-$sourceHash';
 
 String? _localThumbnailPath(
   ScrapedMediaSource? source,

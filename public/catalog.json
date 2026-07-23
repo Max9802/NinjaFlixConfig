@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T16:32:45.928451Z",
+  "generatedAt": "2026-07-23T17:36:37.042572Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "63ed00fdfca75c21a84ea6950e3fdd946c55c949abd636531c8056f890b6bcdc",
+  "logicalHash": "pilot-test-20260723-63ed00fdfca75c21a84ea6950e3fdd946c55c949abd636531c8056f890b6bcdc",
   "locatorHash": "542d229a5f925201344be817f08215e3f3e22b3805aeb16287c171d9b12c7698",
   "series": [
     {
@@ -20,7 +20,7 @@
           "displayNumber": 0,
           "canonicalCode": 0,
           "sortOrder": 0,
-          "logicalHash": "ca143091d51cfcb73d17098edfcfc9fe5c829b191d8605e1d807b3a47f4711a2",
+          "logicalHash": "pilot-test-20260723-ca143091d51cfcb73d17098edfcfc9fe5c829b191d8605e1d807b3a47f4711a2",
           "artworkPath": "covers/ninjago__piloto.webp",
           "episodes": [
             {
@@ -8600,7 +8600,7 @@
                   "openUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
                   "previewUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
                   "downloadUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQXANxAamTq2eHz1X9hmx7_eBx8VzKx5j0Eq5UTCabDBT0Ap_R_LfkWImSQML0TfxmECKZj9Es_hK9pNdcI9q0j-VT7-6YRQYbzs3pJgMs3UnuDTRk7DVeIJoIUeVopHjMwVeyjjdsttIeWtownhQmsQ9K_E4QxjvX8NEDeiwCeNofvaB0hNBR6_u9PZCcg0ynVAy1kBRdX9N69tBpUl2JlJGWjC5nvC0cBy58yFtXs=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQXovqlkUjFe-Znx8GiuJR0g6hPxy2tZ7W4qetXBHVGr8zoLJYUovcZNDLS0rfWPPikfQycR54yowu4HO3NFlboRkS_dFbCsFWsxMOnMRmo8XdXbVR-EN2VRGAJUhHZUhRwhsfWo62ouD2eJkTBxzELNrV0AbAPJ_1fSFcUyrCcArMoBtm2V17xfVT4t-PQ3sMxULcWyK4ElYHBSsuVKjugJXSzNjweb4nBAwpowzQM=w1280",
                   "thumbnailPath": "thumbnails/wYxO6WMkZRCJ9gd.jpg",
                   "locatorHash": "68c6ec216642694d0cecac137e1bf12a875e861212d181d4c295468b5db67dc5"
                 }
@@ -8623,7 +8623,7 @@
                   "openUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
                   "previewUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
                   "downloadUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVNvDRGDED4Hjk3APE0Nr_GuCuJR8-w8UkCyTCHWxDtSJi6ScljOhZkmy22o6ud7bJ6vIHjZ1ix-b56Jmp6y7nTNhiBA2xkho6le8uqrbukyzQuUHQxRvCDH2r1lfre_lYIXRG0n_PwPO1pQsmHryF3IHJtN5nw2__7_uR-DcETl7z91DgWm23yZCdKMs--kN2NU-WcWsrkcwXS_hh7WE7vnYflF0YDwUexDwcR=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVz-mNHmVmBGDi7HL_S5w7WsOQmURawNcvVV59AWiCZsiPeGrwhnhyAgGy9RBTr6rVMTIuM2S7o_2Wl_C-fpcY0MyviHn2Pt4J16C3i6k-fzK0EJBIQe88S8uN1EHw-c2kGGxE6J-oF_NMbyf3J-Hlgm9YH_w4niFGJCHQ7NBLxhskAEdyZN34anxx8g1l3WsQQoGO90efTB3Tgejo0qX8kgwhCOGop3ZDjX5Z6=w1280",
                   "thumbnailPath": "thumbnails/LYDXezZAA2cRzPv.jpg",
                   "locatorHash": "45f6744a2ab0de5bfc965e3ebf8fdff67dc6a71dcbe5326097996ace49d5093f"
                 }
@@ -8646,7 +8646,7 @@
                   "openUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
                   "previewUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
                   "downloadUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/vW24WOVVzAiDGK.jpg",
                   "locatorHash": "848ff57081502a30e6c1d6f95d1b1ddf44e74b6b8113e12d8518ec075c476b87"
                 }
@@ -8669,7 +8669,7 @@
                   "openUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
                   "previewUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
                   "downloadUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/VyDMay8k1pfKplv.jpg",
                   "locatorHash": "c6c884c806f839fac1c945a8ed0784ceec80bbfb290c0856bf5e74fa5f843a43"
                 }
@@ -8692,7 +8692,7 @@
                   "openUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
                   "previewUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
                   "downloadUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/6epRZGa19aI9wlk.jpg",
                   "locatorHash": "e919d923b002c80a70675852b6c91ad9ce1fed1002ae370b1e7f180c9eb51756"
                 }
@@ -8715,7 +8715,7 @@
                   "openUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
                   "previewUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
                   "downloadUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/9eaZXKXVZKTaJla.jpg",
                   "locatorHash": "a5c6132b9bcfbbcdc24defa09dcdee18de0f81c55fb3774e165489d4aa111be6"
                 }
@@ -8738,7 +8738,7 @@
                   "openUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
                   "previewUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
                   "downloadUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/oQQAQ71orKUJaZZ.jpg",
                   "locatorHash": "cb1ea6c423773a23d6ff38794f94fa57f4b725c255cbe2c54765677d73e11307"
                 }
@@ -8761,7 +8761,7 @@
                   "openUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
                   "previewUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
                   "downloadUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/0WZjZw7R1ZCbOrY.jpg",
                   "locatorHash": "7938a1f2e6e0febe357741cebcfd50d83abc78d315999fd6db0e29122396815e"
                 }
@@ -8784,7 +8784,7 @@
                   "openUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
                   "previewUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
                   "downloadUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/7Y80oex9YZhAjk8.jpg",
                   "locatorHash": "06f8e28719059f5b4b87802a8e39ee2b4e9ef0f844964dc7d19832a3c5b9ebbd"
                 }
@@ -8807,7 +8807,7 @@
                   "openUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
                   "previewUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
                   "downloadUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVI97HDSSkaYh002pAln6gBvryjWnokxcIU-0Ak-161-12bZCqMLpqi826SKeRliWGCg6aTg7Xju25UCTf6OpeRyUEddwOA01iMnY1uJv0rsqMJlpyRToYgqwPYJaIaPx3SsWV4zik72EVvKj7nf3H6Fj8Hn21lFSWuto1ks2qAuiBssb8SabEzO55ErHsDvk5nynUqVtnIrgz1wLedfIOC9EX02yC1QXwBjQDFR58=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUwkPaIFaeJHCch-qoOhah3AtJ7cz7PW8LP0hqQfwlBsakWzAJcHrjNJ8AFKalOdXdbwUqfE8G4ZZ8SucvILJlfUCAv6hohhL1oX6hGizk5Twu0EqsZCPkGlfmB71vnbJe5oNf1C-TrGvIA60kcjxqmm-_jebjWi9rfXyGmA2t9KsSE_wMRHpKq9nSIaBT45NsQ88sJfcI-i0uWXpMDWwFdzQmfO7hgfTEeiXl78hM=w1280",
                   "thumbnailPath": "thumbnails/Gvl676mAZvsYMj.jpg",
                   "locatorHash": "7eba7fa69c4ab29354a9811996a952fc5685fc19edd7ad01136519fd09183d22"
                 }
