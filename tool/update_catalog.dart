@@ -7,7 +7,8 @@ const _schemaVersion = 1;
 const _minimumPageCount = 40;
 const _minimumEpisodeCount = 300;
 const _siteRoot = 'https://sites.google.com/view/labibliotecaelementalninjago/';
-const _temporaryPilotArtworkVersion = 'pilot-test-20260723';
+const _temporaryPilotArtworkVersion = 'pilot2-test-20260723';
+const _temporaryPilotSeasonId = 'ninjago/piloto-prueba-remota';
 
 Future<void> main() async {
   final projectDirectory = Directory.current;
@@ -272,6 +273,7 @@ Map<String, Object?> _seasonDocument(
   Directory coversDirectory,
   Directory thumbnailsDirectory,
 ) {
+  final isTemporaryPilot = season.logicalKey == 'ninjago/piloto';
   final coverName = '${season.logicalKey.replaceAll('/', '__')}.webp';
   final cover = File('${coversDirectory.path}/$coverName');
   final firstThumbnail = season.episodes
@@ -283,7 +285,7 @@ Map<String, Object?> _seasonDocument(
       .firstOrNull;
 
   return <String, Object?>{
-    'id': season.logicalKey,
+    'id': isTemporaryPilot ? _temporaryPilotSeasonId : season.logicalKey,
     'sourceUrl': season.sourceUrl.toString(),
     'sourcePageKey': season.sourcePageKey,
     'title': season.title,
@@ -291,14 +293,19 @@ Map<String, Object?> _seasonDocument(
     'displayNumber': season.displayNumber,
     'canonicalCode': season.canonicalCode,
     'sortOrder': season.sortOrder,
-    'logicalHash': season.logicalKey == 'ninjago/piloto'
+    'logicalHash': isTemporaryPilot
         ? '$_temporaryPilotArtworkVersion-${season.logicalHash}'
         : season.logicalHash,
     'artworkPath': cover.existsSync() ? 'covers/$coverName' : firstThumbnail,
     'episodes': season.episodes
         .map(
           (episode) => <String, Object?>{
-            'id': episode.logicalKey,
+            'id': isTemporaryPilot
+                ? episode.logicalKey.replaceFirst(
+                    season.logicalKey,
+                    _temporaryPilotSeasonId,
+                  )
+                : episode.logicalKey,
             'number': episode.number,
             'title': episode.title,
             'synopsis': episode.synopsis,
