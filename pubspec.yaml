@@ -1,0 +1,14 @@
+name: ninja_flix_config
+description: Catalogo remoto y recursos publicos de NinjaFlix.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  catalog_scraper:
+    path: packages/catalog_scraper
+
+dev_dependencies:
+  lints: ^6.1.0

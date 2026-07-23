@@ -1,0 +1,74 @@
+name: Actualizar y publicar catálogo
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ninja-flix-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v6
+
+      - name: Preparar Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - name: Instalar dependencias del generador
+        run: dart pub get
+
+      - name: Instalar dependencias del parser
+        working-directory: packages/catalog_scraper
+        run: dart pub get
+
+      - name: Probar parser
+        working-directory: packages/catalog_scraper
+        run: dart test
+
+      - name: Actualizar catálogo
+        run: dart run tool/update_catalog.dart
+
+      - name: Guardar cambios detectados
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public
+          if ! git diff --cached --quiet; then
+            git commit -m "update ninjaflix catalog"
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar sitio
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
