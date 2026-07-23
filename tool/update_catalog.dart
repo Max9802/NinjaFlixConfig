@@ -2,15 +2,12 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:catalog_scraper/catalog_scraper.dart';
+import 'package:crypto/crypto.dart';
 
 const _schemaVersion = 1;
 const _minimumPageCount = 40;
 const _minimumEpisodeCount = 300;
 const _siteRoot = 'https://sites.google.com/view/labibliotecaelementalninjago/';
-const _temporaryPilotArtworkVersion = 'pilot4-test-20260723';
-const _temporaryPilotSeasonId = 'ninjago/piloto-prueba-remota';
-const _temporaryPilotArtworkPath =
-    'thumbnails/1Cy_Bhqz9Tvt9QHoKYLEbVZz-RLaaTMkr.jpg';
 
 Future<void> main() async {
   final projectDirectory = Directory.current;
@@ -49,7 +46,9 @@ Future<void> main() async {
     }
 
     final publishedLogicalHash = _publishedCatalogLogicalHash(
-      catalog.logicalHash,
+      catalog,
+      coversDirectory,
+      thumbnailsDirectory,
     );
     final version =
         '$_schemaVersion:$publishedLogicalHash:${catalog.locatorHash}';
@@ -69,6 +68,7 @@ Future<void> main() async {
     final catalogDocument = _catalogDocument(
       catalog: catalog,
       generatedAt: generatedAt,
+      publishedLogicalHash: publishedLogicalHash,
       coversDirectory: coversDirectory,
       thumbnailsDirectory: thumbnailsDirectory,
     );
@@ -219,6 +219,7 @@ Future<_ImageDownloadResult> _downloadMissingThumbnails({
 Map<String, Object?> _catalogDocument({
   required ScrapedCatalog catalog,
   required String generatedAt,
+  required String publishedLogicalHash,
   required Directory coversDirectory,
   required Directory thumbnailsDirectory,
 }) {
@@ -226,7 +227,7 @@ Map<String, Object?> _catalogDocument({
     'schemaVersion': _schemaVersion,
     'generatedAt': generatedAt,
     'source': _siteRoot,
-    'logicalHash': _publishedCatalogLogicalHash(catalog.logicalHash),
+    'logicalHash': publishedLogicalHash,
     'locatorHash': catalog.locatorHash,
     'series': catalog.series
         .map(
@@ -275,19 +276,14 @@ Map<String, Object?> _seasonDocument(
   Directory coversDirectory,
   Directory thumbnailsDirectory,
 ) {
-  final isTemporaryPilot = season.logicalKey == 'ninjago/piloto';
-  final coverName = '${season.logicalKey.replaceAll('/', '__')}.webp';
-  final cover = File('${coversDirectory.path}/$coverName');
-  final firstThumbnail = season.episodes
-      .map(
-        (episode) =>
-            _localThumbnailPath(episode.mediaSource, thumbnailsDirectory),
-      )
-      .whereType<String>()
-      .firstOrNull;
+  final artworkPath = _seasonArtworkPath(
+    season,
+    coversDirectory,
+    thumbnailsDirectory,
+  );
 
   return <String, Object?>{
-    'id': isTemporaryPilot ? _temporaryPilotSeasonId : season.logicalKey,
+    'id': season.logicalKey,
     'sourceUrl': season.sourceUrl.toString(),
     'sourcePageKey': season.sourcePageKey,
     'title': season.title,
@@ -295,21 +291,16 @@ Map<String, Object?> _seasonDocument(
     'displayNumber': season.displayNumber,
     'canonicalCode': season.canonicalCode,
     'sortOrder': season.sortOrder,
-    'logicalHash': isTemporaryPilot
-        ? '$_temporaryPilotArtworkVersion-${season.logicalHash}'
-        : season.logicalHash,
-    'artworkPath': isTemporaryPilot
-        ? _temporaryPilotArtworkPath
-        : (cover.existsSync() ? 'covers/$coverName' : firstThumbnail),
+    'logicalHash': _publishedSeasonLogicalHash(
+      season,
+      coversDirectory,
+      thumbnailsDirectory,
+    ),
+    'artworkPath': artworkPath,
     'episodes': season.episodes
         .map(
           (episode) => <String, Object?>{
-            'id': isTemporaryPilot
-                ? episode.logicalKey.replaceFirst(
-                    season.logicalKey,
-                    _temporaryPilotSeasonId,
-                  )
-                : episode.logicalKey,
+            'id': episode.logicalKey,
             'number': episode.number,
             'title': episode.title,
             'synopsis': episode.synopsis,
@@ -344,8 +335,63 @@ Map<String, Object?> _seasonDocument(
   };
 }
 
-String _publishedCatalogLogicalHash(String sourceHash) =>
-    '$_temporaryPilotArtworkVersion-$sourceHash';
+String _publishedCatalogLogicalHash(
+  ScrapedCatalog catalog,
+  Directory coversDirectory,
+  Directory thumbnailsDirectory,
+) {
+  final parts = <String>[catalog.logicalHash];
+  for (final series in catalog.series) {
+    for (final season in series.seasons) {
+      parts.add(
+        _publishedSeasonLogicalHash(
+          season,
+          coversDirectory,
+          thumbnailsDirectory,
+        ),
+      );
+    }
+  }
+  return sha256.convert(utf8.encode(parts.join(':'))).toString();
+}
+
+String _publishedSeasonLogicalHash(
+  ScrapedSeason season,
+  Directory coversDirectory,
+  Directory thumbnailsDirectory,
+) {
+  final artworkPath = _seasonArtworkPath(
+    season,
+    coversDirectory,
+    thumbnailsDirectory,
+  );
+  final parts = <String>[season.logicalHash];
+  if (artworkPath != null) {
+    final publicDirectory = coversDirectory.parent;
+    final artwork = File('${publicDirectory.path}/$artworkPath');
+    if (artwork.existsSync()) {
+      parts.add(sha256.convert(artwork.readAsBytesSync()).toString());
+    }
+  }
+  return sha256.convert(utf8.encode(parts.join(':'))).toString();
+}
+
+String? _seasonArtworkPath(
+  ScrapedSeason season,
+  Directory coversDirectory,
+  Directory thumbnailsDirectory,
+) {
+  final coverName = '${season.logicalKey.replaceAll('/', '__')}.webp';
+  final cover = File('${coversDirectory.path}/$coverName');
+  if (cover.existsSync()) return 'covers/$coverName';
+  return season.episodes
+      .map(
+        (episode) =>
+            _localThumbnailPath(episode.mediaSource, thumbnailsDirectory),
+      )
+      .whereType<String>()
+      .firstOrNull;
+}
 
 String? _localThumbnailPath(
   ScrapedMediaSource? source,
