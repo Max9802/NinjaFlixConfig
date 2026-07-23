@@ -7,7 +7,7 @@ const _schemaVersion = 1;
 const _minimumPageCount = 40;
 const _minimumEpisodeCount = 300;
 const _siteRoot = 'https://sites.google.com/view/labibliotecaelementalninjago/';
-const _temporaryPilotArtworkVersion = 'pilot2-test-20260723';
+const _temporaryPilotArtworkVersion = 'pilot3-test-20260723';
 const _temporaryPilotSeasonId = 'ninjago/piloto-prueba-remota';
 
 Future<void> main() async {
