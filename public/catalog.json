@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T19:27:00.319824Z",
+  "generatedAt": "2026-08-19T01:53:55.079292Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "e2e21001346387acff5078c32b5d26e4c12e388835c5d538c180a0e3a7bac507",
+  "logicalHash": "063a70bc1bcc76c8bc7dd276b0a328213bf731004f9dd26f0c7ff502737e98e9",
   "locatorHash": "b4139cd38cc53977c10d89dc0ced78c82a1001f1ef4e30ee9f9e863b9afed3bd",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "e5b313cf974b9b6b67e67cee6f8352ddaffa4c51a9554a7d349c5180484ca041",
+      "logicalHash": "5ebb511ae69190bdadc4158512f5b81116d4979b480377eb7c80c6346bd7e7ea",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -413,7 +413,7 @@
           "displayNumber": 2,
           "canonicalCode": 2,
           "sortOrder": 2,
-          "logicalHash": "b512cf6d921fb674d69410fcf7003ae9cac58f633f7854abc54bbe12594205bf",
+          "logicalHash": "48ad55443f024968c1b7590eb1af8ec7fd7e0d1d04871db1187fb601e6390f02",
           "artworkPath": "covers/ninjago__el-legado-del-ninja-verde.webp",
           "episodes": [
             {
@@ -557,12 +557,12 @@
             {
               "id": "ninjago/el-legado-del-ninja-verde/e007",
               "number": 7,
-              "title": "El ejército de pierda",
+              "title": "El ejército de piedra",
               "synopsis": "",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 7,
-              "logicalHash": "8735ffe64687b06f25d8dcb4205abf36c5129703561134d4b8fb69251dc839bf",
+              "logicalHash": "a1d156a0fd5642e3b31fee4e83222fd3ec1b7a6fc8e9f86eec33dce2da434173",
               "thumbnailPath": "thumbnails/1GUv19q-A5qyHPUw_I1rGdTkvcXSLZqK6.jpg",
               "mediaSources": [
                 {
@@ -8669,7 +8669,7 @@
                   "openUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
                   "previewUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
                   "downloadUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQUviHVTjFr4Fe7gWDnde1cOgp29RXgoAOEoSLGoVn0Hz_LNlkKr5830-QEcw-qD7OR_BNJQgCrcp1dTrhK8XzyObMdlIEs1SfNQ54bdOiKZqfBHO5H7QRIHo5fTHgZ8ucj9Y9JJhVtfzvKBpQPuoWWVYnn-9j_Ph5V28EuOrANa8Az9P5kBMyy6yH_YuDp5oaSTMoczS6hgcQ-zb386TgXmagBgDZoowJT0I6lzaVo=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQXPh7ANrZFt7PlWD-LlpgUnUdl9yIwd1Ffa-yUii0dUeDVBkfjym01-52DIeVR79Pmk5bPBwUUeZlKwTs-EoH7boDpspW-1OCL6kQfNFlI0e-Xqjfs6et-UckEV0dkail6zJL9BfkwFx6HgCvBSv7g4vuxmAKJn8Sc76Cix-vGMIjc8Qael8gkfRnq5lhEQjymjzAr14PvSScD5MVIst0GUMUUskpGf1WnoTlLbBFc=w1280",
                   "thumbnailPath": "thumbnails/wYxO6WMkZRCJ9gd.jpg",
                   "locatorHash": "68c6ec216642694d0cecac137e1bf12a875e861212d181d4c295468b5db67dc5"
                 }
@@ -8692,7 +8692,7 @@
                   "openUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
                   "previewUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
                   "downloadUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWz9QdS-WIBEf5Cd2t4MFvD-i5n49xIk4oNdM74hsr6KijLS6Qg4Ap5ky9MM8s4nyZiP9G_qBTtvAIsr8yRklvQKZLEOv4N5_GtobwNtgWzi6ejq-vcP7ThzA-IGoQH88Friofa3rNbqRjZbTyxorPhZdmQAesGHrE114aLUtcLRKo-sTPo0gIwSI6hAhPem6OwWUxMMMpU9-zFQIgr3aosqMDe1qtr656j_VKZ=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVHt07yl0LrPEKa3sdiIDRo-nWDsqI-vbsAitkDsglC23Sc6tXfyPqLOomE29vkAW9Xa6APrZ3MdpOWZ7RhJDebP0KRZqAQCZo4XaMxV4zcF9SV-Teuzdi63Va0m8nO0x769kzy4uMbQg-j-D0ckFye_KWmTOLCMisg7k4MAQFX9xw4CXrvPb1lC9wdKPb4JT8yukyPSTSoM8Yz1Ydhpo1gvNjrBbI8xFcfLnLc=w1280",
                   "thumbnailPath": "thumbnails/LYDXezZAA2cRzPv.jpg",
                   "locatorHash": "45f6744a2ab0de5bfc965e3ebf8fdff67dc6a71dcbe5326097996ace49d5093f"
                 }
@@ -8715,7 +8715,7 @@
                   "openUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
                   "previewUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
                   "downloadUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/vW24WOVVzAiDGK.jpg",
                   "locatorHash": "848ff57081502a30e6c1d6f95d1b1ddf44e74b6b8113e12d8518ec075c476b87"
                 }
@@ -8738,7 +8738,7 @@
                   "openUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
                   "previewUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
                   "downloadUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/VyDMay8k1pfKplv.jpg",
                   "locatorHash": "c6c884c806f839fac1c945a8ed0784ceec80bbfb290c0856bf5e74fa5f843a43"
                 }
@@ -8761,7 +8761,7 @@
                   "openUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
                   "previewUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
                   "downloadUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/6epRZGa19aI9wlk.jpg",
                   "locatorHash": "e919d923b002c80a70675852b6c91ad9ce1fed1002ae370b1e7f180c9eb51756"
                 }
@@ -8784,7 +8784,7 @@
                   "openUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
                   "previewUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
                   "downloadUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/9eaZXKXVZKTaJla.jpg",
                   "locatorHash": "a5c6132b9bcfbbcdc24defa09dcdee18de0f81c55fb3774e165489d4aa111be6"
                 }
@@ -8807,7 +8807,7 @@
                   "openUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
                   "previewUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
                   "downloadUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/oQQAQ71orKUJaZZ.jpg",
                   "locatorHash": "cb1ea6c423773a23d6ff38794f94fa57f4b725c255cbe2c54765677d73e11307"
                 }
@@ -8830,7 +8830,7 @@
                   "openUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
                   "previewUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
                   "downloadUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/0WZjZw7R1ZCbOrY.jpg",
                   "locatorHash": "7938a1f2e6e0febe357741cebcfd50d83abc78d315999fd6db0e29122396815e"
                 }
@@ -8853,7 +8853,7 @@
                   "openUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
                   "previewUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
                   "downloadUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/7Y80oex9YZhAjk8.jpg",
                   "locatorHash": "06f8e28719059f5b4b87802a8e39ee2b4e9ef0f844964dc7d19832a3c5b9ebbd"
                 }
@@ -8876,7 +8876,7 @@
                   "openUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
                   "previewUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
                   "downloadUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW8nfaiZcgHx6u8fMoV8KXZDEYoG48X9C613Cs2JHkqnpIl_1V1E8JmNYsTfX8NoCQBTOGAS7lpDyXhWlQTDGkD-Iw3lSvyQHZO3mYaR5qFBCRpwLN4GAM7wYZv30CwW8NrrhLjwTfD-h5xSE52QQ06pmNjaSP3r1k8NYO-EDEW5fTA765f_HPV0biXXj1u8IUGBpDzACfAhLbedaDkhE1Ezod8juycRciKQdb-eI8=w1280",
+                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQVN68Gd4ihFoftIfRKHnolpMTWYiF1TSE9-O0dRmT_sLqjHiErWgIRIyouBRXKUw4Qz5QjD7apLsbq5fcFHGqPiC-IQ2ArHwncg3eX9H8j5-kWuUDqMxm-mAmh-OBDk43D0wrsxPy4Ydu3Ns-LypCyUL8to8DTcQS4H-7REckSLsz-oHol4Bup6NA5q-eiasf1UomJYJ0bXEv3dfKkU0DbbeOcLoCVCp4AMowepZ2o=w1280",
                   "thumbnailPath": "thumbnails/Gvl676mAZvsYMj.jpg",
                   "locatorHash": "7eba7fa69c4ab29354a9811996a952fc5685fc19edd7ad01136519fd09183d22"
                 }
@@ -8998,9 +8998,9 @@
       "id": "orden-cronologico",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/orden-cronol%C3%B3gico",
       "title": "Orden cronológico",
-      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) En dirección al mar (Temporada 14)\n\n21) Cristalizados (Temporada 15)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n-La biblioteca elemental",
+      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) SeabounSeabound (Temporada 14)\n\n21) Cristalized (Temporada 15)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n-La biblioteca elemental",
       "sortOrder": 10,
-      "logicalHash": "0082ab2e05fdc7dffd71ba22dc45d7ffdc59598d86ffe6d5de04b3809ac95ef3",
+      "logicalHash": "439ce2f5a46d86bd0268e55856bdefb3474100245c9b4d46362bb2fedd885646",
       "links": [
         {
           "label": "https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN",
@@ -9119,11 +9119,11 @@
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/las-6-virtudes"
         },
         {
-          "label": "20) En dirección al mar (Temporada 14)",
+          "label": "20) SeabounSeabound (Temporada 14)",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/en-direcci%C3%B3n-al-mar"
         },
         {
-          "label": "21) Cristalizados (Temporada 15)",
+          "label": "21) Cristalized (Temporada 15)",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/cristalizados"
         },
         {
