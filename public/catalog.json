@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T22:21:59.371706Z",
+  "generatedAt": "2026-09-09T04:44:49.013063Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "b48153ddf488fd1c75fdd3900a319dacf577369a644339dbb7af28102ca6ccfd",
-  "locatorHash": "b4139cd38cc53977c10d89dc0ced78c82a1001f1ef4e30ee9f9e863b9afed3bd",
+  "logicalHash": "5e62ebab3e818f0ce9e515179cf71782aab295467f9142226c125c6e8eb5a85f",
+  "locatorHash": "daf0e70cb343cfa441b12c568eff87aa52eca5b833f123fc3e38f43c17308e82",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "5ebb511ae69190bdadc4158512f5b81116d4979b480377eb7c80c6346bd7e7ea",
+      "logicalHash": "4de1306c0adafff0308cd8f366c2c1cca8afdbed50b599ddf6a22fc1b9771a68",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -4183,7 +4183,7 @@
           "displayNumber": 15,
           "canonicalCode": 15,
           "sortOrder": 15,
-          "logicalHash": "cec47769e76606ea7f83d0cae4b6f00e23353c8f0023e12c48d3bdb601f77c2b",
+          "logicalHash": "6be5f430747e3f83faded6eec631b8cb034f2947c2e0091e8248010b2f88d643",
           "artworkPath": "covers/ninjago__en-direccion-al-mar.webp",
           "episodes": [
             {
@@ -4396,12 +4396,12 @@
             {
               "id": "ninjago/en-direccion-al-mar/e010",
               "number": 10,
-              "title": "El acertijo de la esfinje",
+              "title": "El acertijo de la esfinge",
               "synopsis": "",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 10,
-              "logicalHash": "10648910e78094d2c73e251bdbf6f8b6f524c657bdba0a9416fec5e5148b12c7",
+              "logicalHash": "5cdc613aada533c51b9e258b29653d5bfb4c749e215bf446f95199116687038c",
               "thumbnailPath": "thumbnails/1Q-QaMm6f1YMN9QC_41wzrWDnfumlINKo.jpg",
               "mediaSources": [
                 {
@@ -8661,17 +8661,17 @@
               "availability": "available",
               "sortOrder": 11,
               "logicalHash": "34d2917dfa98f125dbbf43381247a800a911487b1718630e29ef3224ebeed9df",
-              "thumbnailPath": "thumbnails/wYxO6WMkZRCJ9gd.jpg",
+              "thumbnailPath": "thumbnails/18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "wYxO6WMkZRCJ9gd",
-                  "openUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
-                  "previewUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
-                  "downloadUrl": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQX3srtfrNbpjx7B3T8upCnzu11G_6vWtahw26WYc8L1DHDMtuObrMxF3beIHW8VNHmRJCGPFQhxXzOtk16RM8p9KO187NBVAnnuZDnn-VKeYqAtt1sPbEFdHdQUZyTfiO2hrlI3dBWMaA0PxdxFmM3M_zqDkq3tM0156QOLyqU447EsV79J6BYhdvHun4C9DmQ2jZrGx2G4luEnz70idQihuDyFcifUpLCy8ZfGFOU=w1280",
-                  "thumbnailPath": "thumbnails/wYxO6WMkZRCJ9gd.jpg",
-                  "locatorHash": "68c6ec216642694d0cecac137e1bf12a875e861212d181d4c295468b5db67dc5"
+                  "provider": "google_drive",
+                  "remoteId": "18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm",
+                  "openUrl": "https://drive.google.com/open?id=18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm",
+                  "previewUrl": "https://drive.google.com/file/d/18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/18wchEWKOZbFma_oUhQ4RS_tyA4fmnDPm.jpg",
+                  "locatorHash": "48a53b958870d8823cb5e12fee37f58f72e3e86fe75d88f96dc4629db0bea33c"
                 }
               ]
             },
@@ -8684,17 +8684,17 @@
               "availability": "available",
               "sortOrder": 12,
               "logicalHash": "a99ef9566697ecef3b9baa550c652f94dfaf167c61fceaac0d065a882a6766e1",
-              "thumbnailPath": "thumbnails/LYDXezZAA2cRzPv.jpg",
+              "thumbnailPath": "thumbnails/1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "LYDXezZAA2cRzPv",
-                  "openUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
-                  "previewUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
-                  "downloadUrl": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQW0EuCFS493WPo-YEGwzGTkqBBPeqllfZolCNTTQQYzZ88i2qCnABowCfGyhKbwR92JtdiSR6p2DxZXKCvGGI9c-qooYBvTIhQnkOAhbiUeHxTBZfCqGsvG5h3FCsr8sA3cGlk22CNFc5_u9td0Sk-0Q99nzv_P36xhah9-7B8abLCZNS8UGLxNkxBKmLCIQV4Vp-g9n-PyCWAl-BrKAP94LF0WgmS6bHcqgKjN=w1280",
-                  "thumbnailPath": "thumbnails/LYDXezZAA2cRzPv.jpg",
-                  "locatorHash": "45f6744a2ab0de5bfc965e3ebf8fdff67dc6a71dcbe5326097996ace49d5093f"
+                  "provider": "google_drive",
+                  "remoteId": "1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not",
+                  "openUrl": "https://drive.google.com/open?id=1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not",
+                  "previewUrl": "https://drive.google.com/file/d/1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1tuT-2Qfx6yicvjpqkY7QNDYiYSbs-Not.jpg",
+                  "locatorHash": "1eaa9844b130f1874ec1fddb1a4a71b08a13bb8716d885f6fe13ef7a337f3760"
                 }
               ]
             },
@@ -8707,17 +8707,17 @@
               "availability": "available",
               "sortOrder": 13,
               "logicalHash": "7ceece33e427aff90e9ec379e4dd8f1d1355b90653a24fcdde0927da39380b1e",
-              "thumbnailPath": "thumbnails/vW24WOVVzAiDGK.jpg",
+              "thumbnailPath": "thumbnails/1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "vW24WOVVzAiDGK",
-                  "openUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
-                  "previewUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
-                  "downloadUrl": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/vW24WOVVzAiDGK.jpg",
-                  "locatorHash": "848ff57081502a30e6c1d6f95d1b1ddf44e74b6b8113e12d8518ec075c476b87"
+                  "provider": "google_drive",
+                  "remoteId": "1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw",
+                  "openUrl": "https://drive.google.com/open?id=1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw",
+                  "previewUrl": "https://drive.google.com/file/d/1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1_L8SpUskl2CfgSVA9fAYNypQLgKFJmhw.jpg",
+                  "locatorHash": "010ad0f057f18d65ebcf98b6a9fb6d7d050e871ab27b761d96bbe4fd90a2f220"
                 }
               ]
             },
@@ -8730,17 +8730,17 @@
               "availability": "available",
               "sortOrder": 14,
               "logicalHash": "1a7606d4ea7182ef32a58d6b4837f4c142bc6f9cbaf404c901861db2c8cb8b01",
-              "thumbnailPath": "thumbnails/VyDMay8k1pfKplv.jpg",
+              "thumbnailPath": "thumbnails/1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "VyDMay8k1pfKplv",
-                  "openUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
-                  "previewUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
-                  "downloadUrl": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/VyDMay8k1pfKplv.jpg",
-                  "locatorHash": "c6c884c806f839fac1c945a8ed0784ceec80bbfb290c0856bf5e74fa5f843a43"
+                  "provider": "google_drive",
+                  "remoteId": "1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0",
+                  "openUrl": "https://drive.google.com/open?id=1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0",
+                  "previewUrl": "https://drive.google.com/file/d/1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1DvVCjphJ2nUUvDxUOpLepaVMIIGiKYc0.jpg",
+                  "locatorHash": "d8f083f46e0f46e4159b0b9639f5d0c061fb6f1322c77ae6cf2bdbf62c6231ff"
                 }
               ]
             },
@@ -8753,17 +8753,17 @@
               "availability": "available",
               "sortOrder": 15,
               "logicalHash": "f935b87121411559786b813281cbd43534aac54293b222d1a41a7024e4ca44d2",
-              "thumbnailPath": "thumbnails/6epRZGa19aI9wlk.jpg",
+              "thumbnailPath": "thumbnails/1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "6epRZGa19aI9wlk",
-                  "openUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
-                  "previewUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
-                  "downloadUrl": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/6epRZGa19aI9wlk.jpg",
-                  "locatorHash": "e919d923b002c80a70675852b6c91ad9ce1fed1002ae370b1e7f180c9eb51756"
+                  "provider": "google_drive",
+                  "remoteId": "1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX",
+                  "openUrl": "https://drive.google.com/open?id=1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX",
+                  "previewUrl": "https://drive.google.com/file/d/1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1Yd_bTvFd8oKU8hERpfEIfyn1zLUUPBLX.jpg",
+                  "locatorHash": "d1abc57c0f9c4ac04b9e6648853c86f227de4a4c89a03970c47b700d972fb7ad"
                 }
               ]
             },
@@ -8776,17 +8776,17 @@
               "availability": "available",
               "sortOrder": 16,
               "logicalHash": "17266f7388743d1b27475fd3b7ddd17460d1baff1dcb0084ab9751fec16bc637",
-              "thumbnailPath": "thumbnails/9eaZXKXVZKTaJla.jpg",
+              "thumbnailPath": "thumbnails/1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "9eaZXKXVZKTaJla",
-                  "openUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
-                  "previewUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
-                  "downloadUrl": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/9eaZXKXVZKTaJla.jpg",
-                  "locatorHash": "a5c6132b9bcfbbcdc24defa09dcdee18de0f81c55fb3774e165489d4aa111be6"
+                  "provider": "google_drive",
+                  "remoteId": "1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY",
+                  "openUrl": "https://drive.google.com/open?id=1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY",
+                  "previewUrl": "https://drive.google.com/file/d/1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1MdmsN2T7ipIihWnBrSd4MpxFlt50AmXY.jpg",
+                  "locatorHash": "054ac4e72e4e15a08317d14a1edfa5486a82223f95bfcae757afec04b6bec8ea"
                 }
               ]
             },
@@ -8799,17 +8799,17 @@
               "availability": "available",
               "sortOrder": 17,
               "logicalHash": "5983ec8ac9618be4f11620f15e7e942a5b4156e9b58c7bdf85b9b6f4181b1525",
-              "thumbnailPath": "thumbnails/oQQAQ71orKUJaZZ.jpg",
+              "thumbnailPath": "thumbnails/1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "oQQAQ71orKUJaZZ",
-                  "openUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
-                  "previewUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
-                  "downloadUrl": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/oQQAQ71orKUJaZZ.jpg",
-                  "locatorHash": "cb1ea6c423773a23d6ff38794f94fa57f4b725c255cbe2c54765677d73e11307"
+                  "provider": "google_drive",
+                  "remoteId": "1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM",
+                  "openUrl": "https://drive.google.com/open?id=1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM",
+                  "previewUrl": "https://drive.google.com/file/d/1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1C6zDkueZC9CRBnbhEDeOZKnrX2FVZOTM.jpg",
+                  "locatorHash": "76669e43167370f6219908cf378db8acb1f61a25d16c743890b5fcbc5a79339c"
                 }
               ]
             },
@@ -8822,17 +8822,17 @@
               "availability": "available",
               "sortOrder": 18,
               "logicalHash": "1109123c131fd8aec5afb421df5289c405e69cb9b0a9ab01f4588e4ceb60509a",
-              "thumbnailPath": "thumbnails/0WZjZw7R1ZCbOrY.jpg",
+              "thumbnailPath": "thumbnails/1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "0WZjZw7R1ZCbOrY",
-                  "openUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
-                  "previewUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
-                  "downloadUrl": "https://streamtape.com/v/0WZjZw7R1ZCbOrY/20x18_La_Cumbre.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/0WZjZw7R1ZCbOrY.jpg",
-                  "locatorHash": "7938a1f2e6e0febe357741cebcfd50d83abc78d315999fd6db0e29122396815e"
+                  "provider": "google_drive",
+                  "remoteId": "1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV",
+                  "openUrl": "https://drive.google.com/open?id=1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV",
+                  "previewUrl": "https://drive.google.com/file/d/1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1yOQZS_imW3vkVYprt6jGG9vTqCIXQLGV.jpg",
+                  "locatorHash": "9ea0af18ea393539895a4a351bce13fcea96c9e195c4a89434ebf63e040563a0"
                 }
               ]
             },
@@ -8845,17 +8845,17 @@
               "availability": "available",
               "sortOrder": 19,
               "logicalHash": "939c27a9069804c267b3b3178b1ec8d7f8230306c3b60a78606e5a14e249a26f",
-              "thumbnailPath": "thumbnails/7Y80oex9YZhAjk8.jpg",
+              "thumbnailPath": "thumbnails/1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "7Y80oex9YZhAjk8",
-                  "openUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
-                  "previewUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
-                  "downloadUrl": "https://streamtape.com/v/7Y80oex9YZhAjk8/20X19_Buscando_desesperadamente_a_Sora.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/7Y80oex9YZhAjk8.jpg",
-                  "locatorHash": "06f8e28719059f5b4b87802a8e39ee2b4e9ef0f844964dc7d19832a3c5b9ebbd"
+                  "provider": "google_drive",
+                  "remoteId": "1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP",
+                  "openUrl": "https://drive.google.com/open?id=1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP",
+                  "previewUrl": "https://drive.google.com/file/d/1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1TU_LavKorRaDAuDM7iV_jIjZZFubSFUP.jpg",
+                  "locatorHash": "882b74f3a8356f02b4f3307cdd1605032895ca3a13ebb259c3a86bc0c0f9475f"
                 }
               ]
             },
@@ -8868,17 +8868,17 @@
               "availability": "available",
               "sortOrder": 20,
               "logicalHash": "cf41caaaabbf2e7264a7f05b6ad519108d1150b206953b6ea6ac68090aee54d9",
-              "thumbnailPath": "thumbnails/Gvl676mAZvsYMj.jpg",
+              "thumbnailPath": "thumbnails/1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A.jpg",
               "mediaSources": [
                 {
-                  "provider": "streamtape",
-                  "remoteId": "Gvl676mAZvsYMj",
-                  "openUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
-                  "previewUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
-                  "downloadUrl": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4",
-                  "thumbnailUrl": "https://lh3.googleusercontent.com/sitesv/AG8ngQWArmbQGL9MHiKT9J274pYFvOzryQhvXMe8D7CMIhOFxIaC3t5P3KkC_Ha17YlnU7JVXkdzdCJHTNmVA3fLfeYnsp7hF4g67Qqtg51rRdBGL8rW0j2DjDII_eH99xlb6QHByAeCA1m8PbtZQEZGqukDnPYXNEodA3n29juQ2__7IXQBSK595bKEbQGXNJSNR4WSfe4o0DvgUKNdTVq-mXbVUzJVHl_OUy62xgcHYoo=w1280",
-                  "thumbnailPath": "thumbnails/Gvl676mAZvsYMj.jpg",
-                  "locatorHash": "7eba7fa69c4ab29354a9811996a952fc5685fc19edd7ad01136519fd09183d22"
+                  "provider": "google_drive",
+                  "remoteId": "1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A",
+                  "openUrl": "https://drive.google.com/open?id=1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A",
+                  "previewUrl": "https://drive.google.com/file/d/1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1i--_0B8It8SQpNyILtNrKe4HEcF6qN1A.jpg",
+                  "locatorHash": "d943ccaa65324b6193f13fe9370db73a635edf3a1458e6e6771b3b50866c5bc3"
                 }
               ]
             }

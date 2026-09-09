@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "1:b48153ddf488fd1c75fdd3900a319dacf577369a644339dbb7af28102ca6ccfd:b4139cd38cc53977c10d89dc0ced78c82a1001f1ef4e30ee9f9e863b9afed3bd",
-  "generatedAt": "2026-08-28T22:21:59.371706Z",
+  "catalogVersion": "1:5e62ebab3e818f0ce9e515179cf71782aab295467f9142226c125c6e8eb5a85f:daf0e70cb343cfa441b12c568eff87aa52eca5b833f123fc3e38f43c17308e82",
+  "generatedAt": "2026-09-09T04:44:49.013063Z",
   "catalogPath": "catalog.json",
-  "catalogBytes": 538969,
-  "logicalHash": "b48153ddf488fd1c75fdd3900a319dacf577369a644339dbb7af28102ca6ccfd",
-  "locatorHash": "b4139cd38cc53977c10d89dc0ced78c82a1001f1ef4e30ee9f9e863b9afed3bd",
+  "catalogBytes": 537618,
+  "logicalHash": "5e62ebab3e818f0ce9e515179cf71782aab295467f9142226c125c6e8eb5a85f",
+  "locatorHash": "daf0e70cb343cfa441b12c568eff87aa52eca5b833f123fc3e38f43c17308e82",
   "seriesCount": 2,
   "seasonCount": 42,
   "episodeCount": 359,
   "pageCount": 46,
-  "imageCount": 391
+  "imageCount": 401
 }
