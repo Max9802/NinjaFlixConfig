@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T04:44:53.059086Z",
+  "generatedAt": "2026-09-11T11:23:23.787885Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "5e62ebab3e818f0ce9e515179cf71782aab295467f9142226c125c6e8eb5a85f",
-  "locatorHash": "52048ae14e301966449a90350a13068b2014afd02462e8ba1ec705029f07781d",
+  "logicalHash": "f8aab84e52cc706d5afaa1ac0efe88bd276f2adcd3867c7319bae0243ba2d5f1",
+  "locatorHash": "a7f4adf0a6423c4fe4bcf8ce0650a84bd0adf1b67ecef3f039c235dd61d189bd",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "4de1306c0adafff0308cd8f366c2c1cca8afdbed50b599ddf6a22fc1b9771a68",
+      "logicalHash": "7af22701d60f38a8151677baec4863ba7b40ef3071458495c92b2f742d1895da",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -32,18 +32,8 @@
               "availability": "available",
               "sortOrder": 1,
               "logicalHash": "d468acd924b8501a57398d92ca6d9c06ea00d4c020386e40574eb52a50bfb31c",
-              "thumbnailPath": "thumbnails/p14reG4jpgfrQmL.jpg",
+              "thumbnailPath": "thumbnails/1Y963x05fyNYp8npaaXBHWt9LNHqznIbq.jpg",
               "mediaSources": [
-                {
-                  "provider": "streamtape",
-                  "remoteId": "p14reG4jpgfrQmL",
-                  "openUrl": "https://streamtape.com/e/p14reG4jpgfrQmL/",
-                  "previewUrl": "https://streamtape.com/e/p14reG4jpgfrQmL/",
-                  "downloadUrl": "https://streamtape.com/e/p14reG4jpgfrQmL/",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1Y963x05fyNYp8npaaXBHWt9LNHqznIbq&sz=w715-h470-p-k-nu",
-                  "thumbnailPath": "thumbnails/p14reG4jpgfrQmL.jpg",
-                  "locatorHash": "7d1b1854bd9715d17bc6445b103cc0f5038b6b2b4cb5792e82ad7975f43d8621"
-                },
                 {
                   "provider": "google_drive",
                   "remoteId": "1Y963x05fyNYp8npaaXBHWt9LNHqznIbq",
@@ -65,18 +55,8 @@
               "availability": "available",
               "sortOrder": 2,
               "logicalHash": "30a26f90a24ae95e0dd88d79810f1c2e81e98badfe6f1028b6a82a5118c2da8e",
-              "thumbnailPath": "thumbnails/o1vZxpWJOMiOJg.jpg",
+              "thumbnailPath": "thumbnails/1aCZbhNIw7aw2I8S629febydd3jZ4io4p.jpg",
               "mediaSources": [
-                {
-                  "provider": "streamtape",
-                  "remoteId": "o1vZxpWJOMiOJg",
-                  "openUrl": "https://streamtape.com/e/o1vZxpWJOMiOJg/",
-                  "previewUrl": "https://streamtape.com/e/o1vZxpWJOMiOJg/",
-                  "downloadUrl": "https://streamtape.com/e/o1vZxpWJOMiOJg/",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1aCZbhNIw7aw2I8S629febydd3jZ4io4p&sz=w715-h470-p-k-nu",
-                  "thumbnailPath": "thumbnails/o1vZxpWJOMiOJg.jpg",
-                  "locatorHash": "36e098e726b9d8a860816e46aba88edd279c28b307ff3d88570803417cb8fbb6"
-                },
                 {
                   "provider": "google_drive",
                   "remoteId": "1aCZbhNIw7aw2I8S629febydd3jZ4io4p",
@@ -4560,12 +4540,12 @@
           "id": "ninjago/cristalizados",
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/cristalizados",
           "sourcePageKey": "cristalizados",
-          "title": "Cristalized",
+          "title": "Crystalized",
           "synopsis": "Un grupo llamado Los Nuevos Ninja aparece en la ciudad de Ninjago, luchando contra los contrabandistas vengativos. El equipo ninja ha perdido la fe y se ha separado. Nya vaga por el Mar Infinito como un dragón de agua, pero comienza a recuperar sus recuerdos. Se encuentra con un elemental de agua llamado Nyad, que la ayuda a encontrar el camino de regreso a casa. Los ninjas se reúnen y descubren un cargamento secreto de venganza en un túnel del metro. Se ven obligados a luchar contra Miss Demeanor y sus matones, pero son humillados cuando los New Ninja derrotan a los villanos.",
           "displayNumber": 16,
           "canonicalCode": 16,
           "sortOrder": 16,
-          "logicalHash": "ac7b812bfaf58a0895ae35554601020f56cb9dd9d8669dc936c80fddbbf432b2",
+          "logicalHash": "92043dc4a6929818ad4380f7fba8afd26ed41bcfe024483caea61bcc9280be19",
           "artworkPath": "covers/ninjago__cristalizados.webp",
           "episodes": [
             {
@@ -6986,7 +6966,7 @@
       "id": "dragons-rising",
       "title": "Dragons Rising",
       "sortOrder": 1,
-      "logicalHash": "7cbc874c3af34bf88334a500bf57737a995a7434a6bbde27fed6df613f309263",
+      "logicalHash": "7783cbba1048cbdbe3dab967ab2732f452538a79d84feff18acd9ddf1b798ac7",
       "seasons": [
         {
           "id": "dragons-rising/dragons-rising-temporada-1",
@@ -8409,480 +8389,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "dragons-rising/dragons-rising-temporada-4",
-          "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/dragons-rising-temporada-4",
-          "sourcePageKey": "dragons-rising-temporada-4",
-          "title": "Dragons Rising (Temporada 4)",
-          "synopsis": "",
-          "displayNumber": 4,
-          "canonicalCode": 20,
-          "sortOrder": 20,
-          "logicalHash": "761b9f5f9d49bc5f1d7f342c182a8c9451ffd5211583c3d34c210a1c447079fa",
-          "artworkPath": "covers/dragons-rising__dragons-rising-temporada-4.webp",
-          "episodes": [
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e001",
-              "number": 1,
-              "title": "El bosque susurrante",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 1,
-              "logicalHash": "317793aaade51b48dc9741ae36f00483cdf174181a0ae2927884325e9397ff2c",
-              "thumbnailPath": "thumbnails/1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J",
-                  "openUrl": "https://drive.google.com/open?id=1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J",
-                  "previewUrl": "https://drive.google.com/file/d/1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1jXCUqKM3cLrE-5SIp78q23mFs_Pd5G_J.jpg",
-                  "locatorHash": "7e903f3d1e301e9c841d814867e252b407e0b37c6b3a1510b2c4c81ca2c7fc8e"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e002",
-              "number": 2,
-              "title": "La inclinación de un árbol",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 2,
-              "logicalHash": "429a91d6adbf8210a968eacb2b5a9cd2401eda9dbf219ed940a8372e5c2c1898",
-              "thumbnailPath": "thumbnails/157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB",
-                  "openUrl": "https://drive.google.com/open?id=157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB",
-                  "previewUrl": "https://drive.google.com/file/d/157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/157pcYyo5dzj-g9B5JxU4s0hHCZbgaZIB.jpg",
-                  "locatorHash": "cc9b0d692c513469738129b7a7ae4d7aa515018e0a5f9f9ebe6b7a0c165ed158"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e003",
-              "number": 3,
-              "title": "Esta noche cazamos monstruos",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 3,
-              "logicalHash": "04512e5d337d11b3bb2789bb780520854624b4bf78c5155022475a4d4868631a",
-              "thumbnailPath": "thumbnails/1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK",
-                  "openUrl": "https://drive.google.com/open?id=1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK",
-                  "previewUrl": "https://drive.google.com/file/d/1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1LDET-97aiZnjS8eaSmN4yUjaKCSfrOVK.jpg",
-                  "locatorHash": "303e8807449382956df1c4f5547da6501c4245ed0ad8340dc2b164fa319390e2"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e004",
-              "number": 4,
-              "title": "Una maravilla de las tierras fusionadas",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 4,
-              "logicalHash": "944405b53e89c182c938b8f0cb4859e1185ac5dd02ec5d19fac330e7e5eab7f9",
-              "thumbnailPath": "thumbnails/14UHw4DwYhMAqrntUN94oX48Tm0he4-6B.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "14UHw4DwYhMAqrntUN94oX48Tm0he4-6B",
-                  "openUrl": "https://drive.google.com/open?id=14UHw4DwYhMAqrntUN94oX48Tm0he4-6B",
-                  "previewUrl": "https://drive.google.com/file/d/14UHw4DwYhMAqrntUN94oX48Tm0he4-6B/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=14UHw4DwYhMAqrntUN94oX48Tm0he4-6B&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=14UHw4DwYhMAqrntUN94oX48Tm0he4-6B&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/14UHw4DwYhMAqrntUN94oX48Tm0he4-6B.jpg",
-                  "locatorHash": "45f8a01f5706830631d854430915be787cda32f5e08570c4edad79ca330829fb"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e005",
-              "number": 5,
-              "title": "Semilla y tierra",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 5,
-              "logicalHash": "ef79548364b295f50c5b09b4011d7ee189c583fbb7b0da40d9aaf4b7183b8b9c",
-              "thumbnailPath": "thumbnails/1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg",
-                  "openUrl": "https://drive.google.com/open?id=1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg",
-                  "previewUrl": "https://drive.google.com/file/d/1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1CUoJr5BLXH3mEFzQjvCThqmet7_6NoEg.jpg",
-                  "locatorHash": "de6f2874768d23042e4aedd2d33d682ec8f41aac5ca6a9ebca2d93d99e03575d"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e006",
-              "number": 6,
-              "title": "Justo bajo la superficie",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 6,
-              "logicalHash": "844fbdbe8fba3347861e5be8880b2ca7d0c0ee5389846c82da7e8ac27bdb57f2",
-              "thumbnailPath": "thumbnails/1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3",
-                  "openUrl": "https://drive.google.com/open?id=1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3",
-                  "previewUrl": "https://drive.google.com/file/d/1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1yqlVfqG_jOpis0XvrOPO3Jr0sjJkEpZ3.jpg",
-                  "locatorHash": "c288b53a0af110ac003c31625cfc6d02b800b392a5c3062b5872e9836f12a208"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e007",
-              "number": 7,
-              "title": "La gran inquisición",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 7,
-              "logicalHash": "ff1f55c8504f00f9d496a942bf15996ae63c0bfab0fb261b99335d63eabd3cb2",
-              "thumbnailPath": "thumbnails/1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_",
-                  "openUrl": "https://drive.google.com/open?id=1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_",
-                  "previewUrl": "https://drive.google.com/file/d/1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1sx9EsZO_YFiGR0lsBD9CQrjDYuRoGLs_.jpg",
-                  "locatorHash": "7c3926ce862338b4cec03cb297f5cda2265eb463647adabc07761bb79d1a9e9d"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e008",
-              "number": 8,
-              "title": "Morir para vivir",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 8,
-              "logicalHash": "edae7b74a1b138910da5bf95c369b159fd8d90c07639d37397efbbd648b447ec",
-              "thumbnailPath": "thumbnails/1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN",
-                  "openUrl": "https://drive.google.com/open?id=1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN",
-                  "previewUrl": "https://drive.google.com/file/d/1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1d9VJR0nUk4_buCaa9sVF6ShIOeHRaWpN.jpg",
-                  "locatorHash": "34039d578851cd570e7edae6c2f7e38611785d2888d39bcf413370ebdd79f553"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e009",
-              "number": 9,
-              "title": "El latido de todos los reinos",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 9,
-              "logicalHash": "2de3bd7638795a4d7e8d23fd70fd7f4656c7b160c0d2f5671acc7dc559b0332e",
-              "thumbnailPath": "thumbnails/10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP",
-                  "openUrl": "https://drive.google.com/open?id=10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP",
-                  "previewUrl": "https://drive.google.com/file/d/10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/10cf8vgNA-8fo2NEcW3bx6EABhOg_3AtP.jpg",
-                  "locatorHash": "789b0faa65c8f98f0b8c05adad4f58eae0c357a38fbaf9a41a30f5f2b5c134e1"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e010",
-              "number": 10,
-              "title": "Derecho de nacimiento",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 10,
-              "logicalHash": "1c5b3f6a544df92b34c89ac7be848bfa2be2ae0fd7a27f5cd4459e16707ef1e0",
-              "thumbnailPath": "thumbnails/1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW",
-                  "openUrl": "https://drive.google.com/open?id=1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW",
-                  "previewUrl": "https://drive.google.com/file/d/1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1VlN4wh2NPeMqpwVczshYsfOtWBRTY9uW.jpg",
-                  "locatorHash": "e011cf753bc658fd17f573de30a013309bca9a84a802f2dd87eaaf34c5041635"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e011",
-              "number": 11,
-              "title": "Monstruo en el monasterio",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 11,
-              "logicalHash": "34d2917dfa98f125dbbf43381247a800a911487b1718630e29ef3224ebeed9df",
-              "thumbnailPath": "thumbnails/1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2",
-                  "openUrl": "https://drive.google.com/open?id=1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2",
-                  "previewUrl": "https://drive.google.com/file/d/1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1rVi4_4zzANEJ_jliG_3hDrpkGSu3a0O2.jpg",
-                  "locatorHash": "268e811b3b5c114970641608fc4eeea282966d86ad613ea70a51326cdb2589ce"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e012",
-              "number": 12,
-              "title": "La mech master 10.000",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 12,
-              "logicalHash": "a99ef9566697ecef3b9baa550c652f94dfaf167c61fceaac0d065a882a6766e1",
-              "thumbnailPath": "thumbnails/1SIHl4azUFzZK04R0ymh64pY2cjiCobsw.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1SIHl4azUFzZK04R0ymh64pY2cjiCobsw",
-                  "openUrl": "https://drive.google.com/open?id=1SIHl4azUFzZK04R0ymh64pY2cjiCobsw",
-                  "previewUrl": "https://drive.google.com/file/d/1SIHl4azUFzZK04R0ymh64pY2cjiCobsw/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1SIHl4azUFzZK04R0ymh64pY2cjiCobsw&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1SIHl4azUFzZK04R0ymh64pY2cjiCobsw&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1SIHl4azUFzZK04R0ymh64pY2cjiCobsw.jpg",
-                  "locatorHash": "f1a6fceaa14cabfed8c30c7ae91908f8ce09154bb6146b2573bb26f494ec30ad"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e013",
-              "number": 13,
-              "title": "En el foso",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 13,
-              "logicalHash": "7ceece33e427aff90e9ec379e4dd8f1d1355b90653a24fcdde0927da39380b1e",
-              "thumbnailPath": "thumbnails/1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso",
-                  "openUrl": "https://drive.google.com/open?id=1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso",
-                  "previewUrl": "https://drive.google.com/file/d/1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1f6GW6CmXrHS8wMdS0IinSEOG57tWhdso.jpg",
-                  "locatorHash": "c293283ebdd5caebedbb45dc4bbaa62e46392110b373720e1b7eca83390255bb"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e014",
-              "number": 14,
-              "title": "Historia antigua",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 14,
-              "logicalHash": "1a7606d4ea7182ef32a58d6b4837f4c142bc6f9cbaf404c901861db2c8cb8b01",
-              "thumbnailPath": "thumbnails/1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM",
-                  "openUrl": "https://drive.google.com/open?id=1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM",
-                  "previewUrl": "https://drive.google.com/file/d/1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1HyMWGLLGejUNMedAjjkX8hlo35d2F1GM.jpg",
-                  "locatorHash": "8a38ad9c7acbab580de85cb0fb1939b431a0efa52fa6157a33500d91c7121c06"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e015",
-              "number": 15,
-              "title": "Una cicatriz congelada",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 15,
-              "logicalHash": "f935b87121411559786b813281cbd43534aac54293b222d1a41a7024e4ca44d2",
-              "thumbnailPath": "thumbnails/1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE",
-                  "openUrl": "https://drive.google.com/open?id=1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE",
-                  "previewUrl": "https://drive.google.com/file/d/1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1y-DMmnCzQvM-V386YF4xYiRNIVICVTzE.jpg",
-                  "locatorHash": "5dc911f1a45d936ca1a38bc1baa6ca0dca15221565437c64767d3c5da08294ab"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e016",
-              "number": 16,
-              "title": "Cien ojos para ver tu alma",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 16,
-              "logicalHash": "17266f7388743d1b27475fd3b7ddd17460d1baff1dcb0084ab9751fec16bc637",
-              "thumbnailPath": "thumbnails/1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP",
-                  "openUrl": "https://drive.google.com/open?id=1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP",
-                  "previewUrl": "https://drive.google.com/file/d/1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1Dw7Yj0oT7IHFQ9X9OxhzhIvAnerkMEQP.jpg",
-                  "locatorHash": "b1042089f79847c7922794002c8889edb49dc58190b3754effaabd33a1d107f5"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e017",
-              "number": 17,
-              "title": "Todos los magos son mentirosos",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 17,
-              "logicalHash": "5983ec8ac9618be4f11620f15e7e942a5b4156e9b58c7bdf85b9b6f4181b1525",
-              "thumbnailPath": "thumbnails/1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx",
-                  "openUrl": "https://drive.google.com/open?id=1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx",
-                  "previewUrl": "https://drive.google.com/file/d/1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1N3sooWCSWuAE3SmIvOdNBq-Q0MLwIJyx.jpg",
-                  "locatorHash": "465e958da6d68fc55567586791953429968d5dbd5911bd6abec216aaf4f7d4d1"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e018",
-              "number": 18,
-              "title": "La cumbre",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 18,
-              "logicalHash": "1109123c131fd8aec5afb421df5289c405e69cb9b0a9ab01f4588e4ceb60509a",
-              "thumbnailPath": "thumbnails/1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-",
-                  "openUrl": "https://drive.google.com/open?id=1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-",
-                  "previewUrl": "https://drive.google.com/file/d/1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1cQGdG_qBI0Hmnv85NshvhkSV2mQYrkb-.jpg",
-                  "locatorHash": "64d915ccb9ac76886305f6a962de1a659727dd78129dc55b1e4d18644b66ed74"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e019",
-              "number": 19,
-              "title": "Buscando desesperadamente a Sora",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 19,
-              "logicalHash": "939c27a9069804c267b3b3178b1ec8d7f8230306c3b60a78606e5a14e249a26f",
-              "thumbnailPath": "thumbnails/1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv",
-                  "openUrl": "https://drive.google.com/open?id=1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv",
-                  "previewUrl": "https://drive.google.com/file/d/1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1RAEI47f6_6V0dzk0IAEC3MRMos5h2kpv.jpg",
-                  "locatorHash": "728916e13c53f6bb597968f3f5fa43afc86affb0f44c2b5ad35e322a39596d5b"
-                }
-              ]
-            },
-            {
-              "id": "dragons-rising/dragons-rising-temporada-4/e020",
-              "number": 20,
-              "title": "Conexiones peligrosas",
-              "synopsis": "",
-              "kind": "episode",
-              "availability": "available",
-              "sortOrder": 20,
-              "logicalHash": "cf41caaaabbf2e7264a7f05b6ad519108d1150b206953b6ea6ac68090aee54d9",
-              "thumbnailPath": "thumbnails/1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC",
-                  "openUrl": "https://drive.google.com/open?id=1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC",
-                  "previewUrl": "https://drive.google.com/file/d/1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC&sz=w339-h191-p-k-nu",
-                  "thumbnailPath": "thumbnails/1-C5L-Azb6uOEN6WoSOrFgJy7T_6zV_SC.jpg",
-                  "locatorHash": "28bf377556988e7148a8fa223b2bf1268345f6f76ff7b099a72a9f45cd66df49"
-                }
-              ]
-            }
-          ]
         }
       ]
     }
@@ -8892,9 +8398,9 @@
       "id": "inicio",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/inicio",
       "title": "Inicio",
-      "body": "LA BIBLIOTECA ELEMENTAL\n\nNINJAGO INFORMATION\n\nBienvenidos a La Biblioteca Elemental, el rincón definitivo para los fans de Ninjago. Aquí encontrarás el archivo más completo de todas las temporadas, desde los clásicos hasta Dragons Rising. Nuestro objetivo es que ningún ninja se pierda ni un detalle de la historia, con episodios actualizados y toda la información de Ninjago\n\n¡¡Recuerden que tienen la sección de Orden Cronológico para que los nuevos no se pierdan de nada!!\n\nPILOTO (TEMPORADA 0)\n\nEl ASCENSO DE LAS SERPIENTES (TEMPORADA 1)\n\nEL LEGADO DEL NINJA VERDE (TEMPORADA 2)\n\nREBOOTED (TEMPORADA 3)\n\nEL TORNEO DE LOS ELEMENTOS (TEMPORADA 4)\n\nLA POSESIÓN (TEMPORADA 5)\n\nSKYBOUND (TEMPORADA 6)\n\nESPECIAL: DÍA DE LOS DIFUNTOS\n\nLAS MANECILLAS DEL TIEMPO (TEMPORADA 7)\n\nHIJOS DE GARMADON (TEMPORADA 8)\n\nCACERÍA (TEMPORADA 9)\n\nLA MARCHA DE LOS ONIS (TEMPORADA 10)\n\nLOS SECRETOS DEL SPINJITZU PROHIBIDO (TEMPORADA 11)\n\nPRIME EMPIRE (TEMPORADA 12)\n\nMAESTROS DE LA MONTAÑA (TEMPORADA 13)\n\nLA ISLA (TEMPORADA 14)\n\nSEABOUND (TEMPORADA 15)\n\nCRISTALIZED (TEMPORADA 16)\n\nDRAGONS RISING (TEMPORADA 1)\n\nDRAGONS RISING (TEMPORADA 2)\n\nDRAGONS RISING (TEMPORADA 3)\n\nDRAGONS RISING (TEMPORADA 4)\n\nRedes sociales para seguirnos o dar un aviso de una falla en la página:\n\nFacebook:\n\nPagina de Facebook con más de 20.000 seguidores: Facebook\n\nGrupo de Facebook: https://www.facebook.com/share/g/1BTURmeaMM/\n\nMuchas gracias por elegirnos, los queremos.\n\nY recueden: \"Un ninja jamás se rinde\".",
+      "body": "LA BIBLIOTECA ELEMENTAL\n\nNINJAGO INFORMATION\n\nBienvenidos a La Biblioteca Elemental, el rincón definitivo para los fans de Ninjago. Aquí encontrarás el archivo más completo de todas las temporadas, desde los clásicos hasta Dragons Rising. Nuestro objetivo es que ningún ninja se pierda ni un detalle de la historia, con episodios actualizados y toda la información de Ninjago\n\n¡¡Recuerden que tienen la sección de Orden Cronológico para que los nuevos no se pierdan de nada!!\n\nPILOTO (TEMPORADA 0)\n\nEl ASCENSO DE LAS SERPIENTES (TEMPORADA 1)\n\nEL LEGADO DEL NINJA VERDE (TEMPORADA 2)\n\nREBOOTED (TEMPORADA 3)\n\nEL TORNEO DE LOS ELEMENTOS (TEMPORADA 4)\n\nLA POSESIÓN (TEMPORADA 5)\n\nSKYBOUND (TEMPORADA 6)\n\nESPECIAL: DÍA DE LOS DIFUNTOS\n\nLAS MANECILLAS DEL TIEMPO (TEMPORADA 7)\n\nHIJOS DE GARMADON (TEMPORADA 8)\n\nCACERÍA (TEMPORADA 9)\n\nLA MARCHA DE LOS ONIS (TEMPORADA 10)\n\nLOS SECRETOS DEL SPINJITZU PROHIBIDO (TEMPORADA 11)\n\nPRIME EMPIRE (TEMPORADA 12)\n\nMAESTROS DE LA MONTAÑA (TEMPORADA 13)\n\nLA ISLA (TEMPORADA 14)\n\nSEABOUND (TEMPORADA 15)\n\nCRYSTALIZED (TEMPORADA 16)\n\nDRAGONS RISING (TEMPORADA 1)\n\nDRAGONS RISING (TEMPORADA 2)\n\nDRAGONS RISING (TEMPORADA 3)\n\nDRAGONS RISING (TEMPORADA 4)\n\nRedes sociales para seguirnos o dar un aviso de una falla en la página:\n\nFacebook:\n\nPagina de Facebook con más de 20.000 seguidores: Facebook\n\nGrupo de Facebook: https://www.facebook.com/share/g/1BTURmeaMM/\n\nMuchas gracias por elegirnos, los queremos.\n\nY recueden: \"Un ninja jamás se rinde\".",
       "sortOrder": 0,
-      "logicalHash": "a0c09d67361d7697eadae0ecc2c5be9418c094f29136564e632180483abeb842",
+      "logicalHash": "d96e6631ba1b6b007f7048d2c9cad36badb70d66bad12def98289c3d53ded850",
       "links": [
         {
           "label": "PILOTO (TEMPORADA 0)",
@@ -8965,7 +8471,7 @@
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/en-direcci%C3%B3n-al-mar"
         },
         {
-          "label": "CRISTALIZED (TEMPORADA 16)",
+          "label": "CRYSTALIZED (TEMPORADA 16)",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/cristalizados"
         },
         {
@@ -8998,9 +8504,9 @@
       "id": "orden-cronologico",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/orden-cronol%C3%B3gico",
       "title": "Orden cronológico",
-      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) Seabound (Temporada 15)\n\n21) Cristalized (Temporada 16)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n-La biblioteca elemental",
+      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios + Juego \"Lego Ninjago: Shadow of Ronin\" (No canon pero si nos da la presentación de un personaje importante a futura temporada)\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) Seabound (Temporada 15)\n\n21) Crystalized (Temporada 16)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n-La biblioteca elemental",
       "sortOrder": 10,
-      "logicalHash": "dd384843c79237368285b521ddede666d40dc2223c9847ce4d1b43fe45fb3abe",
+      "logicalHash": "e169bdcd5eb45cc1821b5fa41ead1c18f7d4e7a869bf9874df7aaec1daa4e421",
       "links": [
         {
           "label": "https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN",
@@ -9127,7 +8633,7 @@
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/en-direcci%C3%B3n-al-mar"
         },
         {
-          "label": "21) Cristalized (Temporada 16)",
+          "label": "21) Crystalized (Temporada 16)",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/cristalizados"
         },
         {
@@ -9297,6 +8803,96 @@
         {
           "label": "15 Años de Ninjago",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/15-a%C3%B1os-de-ninjago"
+        }
+      ]
+    },
+    {
+      "id": "dragons-rising-temporada-4",
+      "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/dragons-rising-temporada-4",
+      "title": "Dragons Rising (Temporada 4)",
+      "body": "En el camino le esperan nuevos personajes, viajes épicos, monstruos elementales y otros temibles enemigos. ¡Nunca ha habido tanto en juego! Después de encontrarse con el Dragón Arca de la Vida, Lloyd está a punto de embarcarse en un arriesgado viaje…\n\n(Los episodios por ahora se podrán ver de esta manera, en Drive es imposible porque muchos entran a ver y los links se rompen, usen Brave o un bloqueador de anuncios)\n\nEp1: El bosque susurrante\n\nEp2: La inclinación de un árbol\n\nEp3: Esta noche cazamos monstruos\n\nEp4: Una maravilla de las tierras fusionadas\n\nEp5: Semilla y tierra\n\nEp6: Justo bajo la superficie\n\nEp7: La gran inquisición\n\nEp8: Morir para vivir\n\nEp9: El latido de todos los reinos\n\nEp10: Derecho de nacimiento\n\nEp11: Monstruo en el monasterio\n\nEp12: La mech master 10.000\n\nEp13: En el foso\n\nEp14: Historia antigua\n\nEp15: Una cicatriz congelada\n\nEp16: Cien ojos para ver tu alma\n\nEp17: Todos los magos son mentirosos\n\nEp18: La cumbre\n\nEp19: Buscando desesperadamente a Sora\n\nEp20: Conexiones peligrosas",
+      "sortOrder": 100,
+      "logicalHash": "937f432974992f711b494cd6043059d5bb363dea00ea86af0074fdbef4a686bf",
+      "links": [
+        {
+          "label": "Ep1: El bosque susurrante",
+          "url": "https://streamtape.com/v/1ARwkyBl3LfeQGw/20X1_El_Bosque_de_los_Susurros.mp4"
+        },
+        {
+          "label": "Ep2: La inclinación de un árbol",
+          "url": "https://streamtape.com/v/eodL8ovQ7wsYVpK/20X2_La_inclinaci%C3%B3n_de_un_%C3%A1rbol.mp4"
+        },
+        {
+          "label": "Ep3: Esta noche cazamos monstruos",
+          "url": "https://streamtape.com/v/llGW386DYjc7Xm1/20X3_Esta_noche_cazamos_monstruos.mp4"
+        },
+        {
+          "label": "Ep4: Una maravilla de las tierras fusionadas",
+          "url": "https://streamtape.com/v/GJVBB7KwowhZoP/20X4_Una_maravilla_de_las_Tierras_Fusionadas.mp4"
+        },
+        {
+          "label": "Ep5: Semilla y tierra",
+          "url": "https://streamtape.com/v/jqK0VywdXXFzPxz/20X5_Semilla_y_tierra.mp4"
+        },
+        {
+          "label": "Ep6: Justo bajo la superficie",
+          "url": "https://streamtape.com/v/QkAY2oKO6JUr9G/20X6_Justo_bajo_la_superficie.mp4"
+        },
+        {
+          "label": "Ep7: La gran inquisición",
+          "url": "https://streamtape.com/v/dZMpexyZeOHkKQP/20X7_La_gran_inquisici%C3%B3n_%E2%9A%96.mp4"
+        },
+        {
+          "label": "Ep8: Morir para vivir",
+          "url": "https://streamtape.com/v/2r3AJv2ZxASZLjR/20X8_Morir_para_vivir.mp4"
+        },
+        {
+          "label": "Ep9: El latido de todos los reinos",
+          "url": "https://streamtape.com/v/7GzvZaZPqZc8vW/20X9_El_latido_de_todos_los_reinos.mp4"
+        },
+        {
+          "label": "Ep10: Derecho de nacimiento",
+          "url": "https://streamtape.com/v/bVpZWP2ggWsPwoL/20X10_Derecho_de_nacimiento.mp4"
+        },
+        {
+          "label": "Ep11: Monstruo en el monasterio",
+          "url": "https://streamtape.com/v/wYxO6WMkZRCJ9gd/20X11_Monstruo_en_el_monasterio.mp4"
+        },
+        {
+          "label": "Ep12: La mech master 10.000",
+          "url": "https://streamtape.com/v/LYDXezZAA2cRzPv/20X12_La_mech_master10.000.mp4"
+        },
+        {
+          "label": "Ep13: En el foso",
+          "url": "https://streamtape.com/v/vW24WOVVzAiDGK/20X13_En_el_foso.mp4"
+        },
+        {
+          "label": "Ep14: Historia antigua",
+          "url": "https://streamtape.com/v/VyDMay8k1pfKplv/20X14_Historia_antigua_.mp4"
+        },
+        {
+          "label": "Ep15: Una cicatriz congelada",
+          "url": "https://streamtape.com/v/6epRZGa19aI9wlk/20X15_Una_cicatriz_congelada.mp4"
+        },
+        {
+          "label": "Ep16: Cien ojos para ver tu alma",
+          "url": "https://streamtape.com/v/9eaZXKXVZKTaJla/20X16_Cien_ojos_para_ver_tu_alma.mp4"
+        },
+        {
+          "label": "Ep17: Todos los magos son mentirosos",
+          "url": "https://streamtape.com/v/oQQAQ71orKUJaZZ/20X17_Todos_los_magos_son_mentirosos.mp4"
+        },
+        {
+          "label": "Ep18: La cumbre",
+          "url": "https://streamtape.com/v/JpA9Wj886RHjKZZ/20X18_La_cumbre.mp4"
+        },
+        {
+          "label": "Ep19: Buscando desesperadamente a Sora",
+          "url": "https://streamtape.com/v/RwRy2xYe6vt0aK/20X19_Buscando_desesperadamente_a_Sora.mp4"
+        },
+        {
+          "label": "Ep20: Conexiones peligrosas",
+          "url": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4"
         }
       ]
     }
