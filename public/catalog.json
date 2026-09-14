@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T20:51:27.496091Z",
+  "generatedAt": "2026-09-14T12:50:14.712697Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "8d87efcfa91be7b16da1a1d2a29a9eaf9bd3034eff545498212533ac085acfa3",
+  "logicalHash": "70496a5c4d4dcf694e8db4d83f3babfbfcf53a5f78b0cca6ae9a8221a2587e7b",
   "locatorHash": "a7f4adf0a6423c4fe4bcf8ce0650a84bd0adf1b67ecef3f039c235dd61d189bd",
   "series": [
     {
@@ -8738,7 +8738,7 @@
       "title": "Cortos",
       "body": "Acá encontrarás la sección de cortos, algunos de estos se relacionan a la serie y explica cosas interesantes\n\nPiloto (Temporada 0)\n\nLa silla de Chen (Temporada 3)\n\nCuentos fantásticos temporada 6)\n\nEl regreso de los villanos (Especíal día de los difuntos)\n\nLos tes de Wu (Antes de temporada 7)\n\nOperación Heavy Metal (Temporada 7)\n\nEl ascenso del Samurai X (Temporada 7)\n\nDecoded (Luego de Temporada 7)\n\nLegacy (Antes de temporada 10)\n\nPrime Empire (Temporada 12)\n\nLas 6 virtudes (Antes de Seabound\n\n10 Años de Ninjago\n\nMechs Elementales (Temporada de Dragons Rising 2)\n\nMonstrosity (Luego de la fusión de Dragons Rising)\n\nEl monstruoso viaje de Kai (Luego de Monstrosity)\n\nEl regreso a Wyldness (Temporada de Dragons Rising Temp 2)\n\n15 Años de Ninjago\n\nDUSKFALL",
       "sortOrder": 30,
-      "logicalHash": "53f66b90543766c7ca02b50a19ba0e943de060e149e0a9e9bf1cbdc2e36e1e30",
+      "logicalHash": "daac816010e383187f1224b91bbbe0dfab7f677190dc26bb6837fb1c8ea96063",
       "links": [
         {
           "label": "Piloto (Temporada 0)",
@@ -8807,6 +8807,10 @@
         {
           "label": "15 Años de Ninjago",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/15-a%C3%B1os-de-ninjago"
+        },
+        {
+          "label": "DUSKFALL",
+          "url": "https://sites.google.com/view/labibliotecaelementalninjago/dsukfall"
         }
       ]
     },
