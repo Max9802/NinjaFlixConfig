@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:50:14.712697Z",
+  "generatedAt": "2026-09-16T21:19:59.575828Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "70496a5c4d4dcf694e8db4d83f3babfbfcf53a5f78b0cca6ae9a8221a2587e7b",
-  "locatorHash": "a7f4adf0a6423c4fe4bcf8ce0650a84bd0adf1b67ecef3f039c235dd61d189bd",
+  "logicalHash": "6d6cb5a57358bada311a0673d30f3c63e34caa4e6e51ee24c3ccc0cb66478541",
+  "locatorHash": "66458ff0d504d50457e9d535978ae00a9c849c4431a354e1d16cdb32797741c5",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "7af22701d60f38a8151677baec4863ba7b40ef3071458495c92b2f742d1895da",
+      "logicalHash": "44e4a65a3bb62f58a48fe0ecd8121773ab10130e423b90c10ca6bea2e6353153",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -6629,6 +6629,43 @@
           ]
         },
         {
+          "id": "ninjago/shadow-of-ronin",
+          "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/shadow-of-ronin",
+          "sourcePageKey": "shadow-of-ronin",
+          "title": "Shadow of Ronin",
+          "synopsis": "",
+          "displayNumber": null,
+          "canonicalCode": null,
+          "sortOrder": 1000,
+          "logicalHash": "5287ea29eb88686e8ebdb0f657e41b3f083ae54387247936f070d2a6bd853ec2",
+          "artworkPath": "thumbnails/1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz.jpg",
+          "episodes": [
+            {
+              "id": "ninjago/shadow-of-ronin/e001",
+              "number": 1,
+              "title": "Shadow of Ronin (versión película)",
+              "synopsis": "",
+              "kind": "episode",
+              "availability": "available",
+              "sortOrder": 1,
+              "logicalHash": "5bfccda535aed9894df91e0473072403f3b7a0bf34b2f56bf0fafd032a53ab42",
+              "thumbnailPath": "thumbnails/1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz.jpg",
+              "mediaSources": [
+                {
+                  "provider": "google_drive",
+                  "remoteId": "1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz",
+                  "openUrl": "https://drive.google.com/open?id=1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz",
+                  "previewUrl": "https://drive.google.com/file/d/1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz&sz=w715-h342-p-k-nu",
+                  "thumbnailPath": "thumbnails/1ovQVDfHbDcaHk7rL6h9YKJbYzTxFx9nz.jpg",
+                  "locatorHash": "1487e3d5cf14b822588d82bce75868ef289f2cdd4ee982821e9374d5b0e2922b"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "ninjago/crossover",
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/crossover",
           "sourcePageKey": "crossover",
@@ -8398,9 +8435,9 @@
       "id": "inicio",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/inicio",
       "title": "Inicio",
-      "body": "LA BIBLIOTECA ELEMENTAL\n\nNINJAGO INFORMATION\n\nBienvenidos a La Biblioteca Elemental, el rincón definitivo para los fans de Ninjago. Aquí encontrarás el archivo más completo de todas las temporadas, desde los clásicos hasta Dragons Rising. Nuestro objetivo es que ningún ninja se pierda ni un detalle de la historia, con episodios actualizados y toda la información de Ninjago\n\n¡¡Recuerden que tienen la sección de Orden Cronológico para que los nuevos no se pierdan de nada!!\n\nPILOTO (TEMPORADA 0)\n\nEl ASCENSO DE LAS SERPIENTES (TEMPORADA 1)\n\nEL LEGADO DEL NINJA VERDE (TEMPORADA 2)\n\nREBOOTED (TEMPORADA 3)\n\nEL TORNEO DE LOS ELEMENTOS (TEMPORADA 4)\n\nLA POSESIÓN (TEMPORADA 5)\n\nSKYBOUND (TEMPORADA 6)\n\nESPECIAL: DÍA DE LOS DIFUNTOS\n\nLAS MANECILLAS DEL TIEMPO (TEMPORADA 7)\n\nHIJOS DE GARMADON (TEMPORADA 8)\n\nCACERÍA (TEMPORADA 9)\n\nLA MARCHA DE LOS ONIS (TEMPORADA 10)\n\nLOS SECRETOS DEL SPINJITZU PROHIBIDO (TEMPORADA 11)\n\nPRIME EMPIRE (TEMPORADA 12)\n\nMAESTROS DE LA MONTAÑA (TEMPORADA 13)\n\nLA ISLA (TEMPORADA 14)\n\nSEABOUND (TEMPORADA 15)\n\nCRYSTALIZED (TEMPORADA 16)\n\nDRAGONS RISING (TEMPORADA 1)\n\nDRAGONS RISING (TEMPORADA 2)\n\nDRAGONS RISING (TEMPORADA 3)\n\nDRAGONS RISING (TEMPORADA 4)\n\nRedes sociales para seguirnos o dar un aviso de una falla en la página:\n\nFacebook:\n\nPagina de Facebook con más de 20.000 seguidores: Facebook\n\nGrupo de Facebook: https://www.facebook.com/share/g/1BTURmeaMM/\n\nMuchas gracias por elegirnos, los queremos.\n\nY recueden: \"Un ninja jamás se rinde\".",
+      "body": "LA BIBLIOTECA ELEMENTAL\n\nNINJAGO INFORMATION\n\nBienvenidos a La Biblioteca Elemental, el rincón definitivo para los fans de Ninjago. Aquí encontrarás el archivo más completo de todas las temporadas, desde los clásicos hasta Dragons Rising. Nuestro objetivo es que ningún ninja se pierda ni un detalle de la historia, con episodios actualizados y toda la información de Ninjago\n\n¡¡Recuerden que tienen la sección de Orden Cronológico para que los nuevos no se pierdan de nada!!\n\n‼️ JUEGO DE \"LEGO NINJAGO: SHADOW OF RONIN\" YA INCLUIDO EN EL SITIO WEB‼️\n\nPILOTO (TEMPORADA 0)\n\nEl ASCENSO DE LAS SERPIENTES (TEMPORADA 1)\n\nEL LEGADO DEL NINJA VERDE (TEMPORADA 2)\n\nREBOOTED (TEMPORADA 3)\n\nEL TORNEO DE LOS ELEMENTOS (TEMPORADA 4)\n\nLA POSESIÓN (TEMPORADA 5)\n\nSKYBOUND (TEMPORADA 6)\n\nESPECIAL: DÍA DE LOS DIFUNTOS\n\nLAS MANECILLAS DEL TIEMPO (TEMPORADA 7)\n\nHIJOS DE GARMADON (TEMPORADA 8)\n\nCACERÍA (TEMPORADA 9)\n\nLA MARCHA DE LOS ONIS (TEMPORADA 10)\n\nLOS SECRETOS DEL SPINJITZU PROHIBIDO (TEMPORADA 11)\n\nPRIME EMPIRE (TEMPORADA 12)\n\nMAESTROS DE LA MONTAÑA (TEMPORADA 13)\n\nLA ISLA (TEMPORADA 14)\n\nSEABOUND (TEMPORADA 15)\n\nCRYSTALIZED (TEMPORADA 16)\n\nDRAGONS RISING (TEMPORADA 1)\n\nDRAGONS RISING (TEMPORADA 2)\n\nDRAGONS RISING (TEMPORADA 3)\n\nDRAGONS RISING (TEMPORADA 4)\n\nRedes sociales para seguirnos o dar un aviso de una falla en la página:\n\nFacebook:\n\nPagina de Facebook con más de 20.000 seguidores: Facebook\n\nGrupo de Facebook: https://www.facebook.com/share/g/1BTURmeaMM/\n\nMuchas gracias por elegirnos, los queremos.\n\nY recueden: \"Un ninja jamás se rinde\".",
       "sortOrder": 0,
-      "logicalHash": "d96e6631ba1b6b007f7048d2c9cad36badb70d66bad12def98289c3d53ded850",
+      "logicalHash": "8b9ef71a8321e2569da529e7fccf1e5b10f5eb99d4dfbe54a9192f0aea265410",
       "links": [
         {
           "label": "PILOTO (TEMPORADA 0)",
@@ -8504,9 +8541,9 @@
       "id": "orden-cronologico",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/orden-cronol%C3%B3gico",
       "title": "Orden cronológico",
-      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios + Juego \"Lego Ninjago: Shadow of Ronin\" (No canon pero si nos da la presentación de un personaje importante a futura temporada)\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) Seabound (Temporada 15)\n\n21) Crystalized (Temporada 16)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n29) Legends: Duskfall (próximamente)\n\n30) Dragons Rising (Temporada 5) (2027)\n\n-La biblioteca elemental",
+      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios\n\n4C) Lego Ninjago \"Shadow of Ronin\" (Semi canon, presentación del personaje Ronin)\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) Seabound (Temporada 15)\n\n21) Crystalized (Temporada 16)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n29) Legends: Duskfall (próximamente)\n\n30) Dragons Rising (Temporada 5) (2027)\n\n-La biblioteca elemental",
       "sortOrder": 10,
-      "logicalHash": "8602ef4860d484154daab5270caec39f27e3739896b4c264bb3574cd398f0fad",
+      "logicalHash": "8f81730696a5c9f56745c338ccaf8ddaa9d0320c35b157718527de50994c7a8e",
       "links": [
         {
           "label": "https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN",
@@ -8539,6 +8576,10 @@
         {
           "label": "4B) Episodios",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/torneo-de-los-elementos"
+        },
+        {
+          "label": "4C) Lego Ninjago \"Shadow of Ronin\"",
+          "url": "https://sites.google.com/view/labibliotecaelementalninjago/shadow-of-ronin"
         },
         {
           "label": "5) La posesión (Temporada 5)",

@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "1:70496a5c4d4dcf694e8db4d83f3babfbfcf53a5f78b0cca6ae9a8221a2587e7b:a7f4adf0a6423c4fe4bcf8ce0650a84bd0adf1b67ecef3f039c235dd61d189bd",
-  "generatedAt": "2026-09-14T12:50:14.712697Z",
+  "catalogVersion": "1:6d6cb5a57358bada311a0673d30f3c63e34caa4e6e51ee24c3ccc0cb66478541:66458ff0d504d50457e9d535978ae00a9c849c4431a354e1d16cdb32797741c5",
+  "generatedAt": "2026-09-16T21:19:59.575828Z",
   "catalogPath": "catalog.json",
-  "catalogBytes": 514915,
-  "logicalHash": "70496a5c4d4dcf694e8db4d83f3babfbfcf53a5f78b0cca6ae9a8221a2587e7b",
-  "locatorHash": "a7f4adf0a6423c4fe4bcf8ce0650a84bd0adf1b67ecef3f039c235dd61d189bd",
+  "catalogBytes": 517033,
+  "logicalHash": "6d6cb5a57358bada311a0673d30f3c63e34caa4e6e51ee24c3ccc0cb66478541",
+  "locatorHash": "66458ff0d504d50457e9d535978ae00a9c849c4431a354e1d16cdb32797741c5",
   "seriesCount": 2,
-  "seasonCount": 41,
-  "episodeCount": 339,
-  "pageCount": 47,
-  "imageCount": 411
+  "seasonCount": 42,
+  "episodeCount": 340,
+  "pageCount": 48,
+  "imageCount": 412
 }
