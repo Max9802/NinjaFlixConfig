@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T21:19:59.575828Z",
+  "generatedAt": "2026-09-19T20:42:14.750287Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "6d6cb5a57358bada311a0673d30f3c63e34caa4e6e51ee24c3ccc0cb66478541",
-  "locatorHash": "66458ff0d504d50457e9d535978ae00a9c849c4431a354e1d16cdb32797741c5",
+  "logicalHash": "5623c3a0e2d061c799488e056f891c72abbf4d36655a2404e461bb48300910c8",
+  "locatorHash": "bed8f8adf2eabd1305d582fed8e4602d51cc8a88afa4b9ab4466743a80ff3147",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "44e4a65a3bb62f58a48fe0ecd8121773ab10130e423b90c10ca6bea2e6353153",
+      "logicalHash": "925a8a5e2e8494698ec8120a3325a34559d1b44089ba2fb8a5ea2f18bc6daa80",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -5918,6 +5918,43 @@
           ]
         },
         {
+          "id": "ninjago/dsukfall",
+          "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/dsukfall",
+          "sourcePageKey": "dsukfall",
+          "title": "Duskfall",
+          "synopsis": "Se avecina una tormenta en la nueva historia de “LEGO NINJAGO Legends: Ocaso”. Sé testigo de emocionantes duelos elementales y sorpréndete con los magistrales ataques con armas de Cole. Descubre cómo el equipo defiende Ciudad NINJAGO con el poder puro de un dragón elemental contra una serpiente colosal. Finalmente, ¡emociónate con la firme resistencia de Kai y Nya para proteger a los elementales en un duelo de mechs lleno de acción!",
+          "displayNumber": null,
+          "canonicalCode": null,
+          "sortOrder": 1000,
+          "logicalHash": "9124cc3f77b4406cf3d16cca998d819f1fb32154a5cb7c0ddfacf0aef204d100",
+          "artworkPath": "thumbnails/1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ.jpg",
+          "episodes": [
+            {
+              "id": "ninjago/dsukfall/e001",
+              "number": 1,
+              "title": "Duskfall",
+              "synopsis": "",
+              "kind": "episode",
+              "availability": "available",
+              "sortOrder": 1,
+              "logicalHash": "c8c2a5c5736d1872ecd9a662ec96980fc0d4694531b8a2d2316a191832f8f0f2",
+              "thumbnailPath": "thumbnails/1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ.jpg",
+              "mediaSources": [
+                {
+                  "provider": "google_drive",
+                  "remoteId": "1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ",
+                  "openUrl": "https://drive.google.com/open?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ",
+                  "previewUrl": "https://drive.google.com/file/d/1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ&sz=w590-h377-p-k-nu",
+                  "thumbnailPath": "thumbnails/1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ.jpg",
+                  "locatorHash": "20e845cd6d5f54294aef08d493a9af21b20331f98e43667ad14864b3a8227520"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "ninjago/el-ascenso-del-samurai-x",
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/el-ascenso-del-samurai-x",
           "sourcePageKey": "el-ascenso-del-samurai-x",
@@ -8944,15 +8981,6 @@
           "url": "https://streamtape.com/v/Gvl676mAZvsYMj/20X20_Conexiones_peligrosas.mp4"
         }
       ]
-    },
-    {
-      "id": "dsukfall",
-      "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/dsukfall",
-      "title": "Trailer de Duskfall",
-      "body": "¡Enfréntate a nuevos monstruos, serpientes gigantes y un ejército de mecas! ¿Qué más les espera a Kai y al resto del equipo ninja en LEGO NINJAGO Legends: DuskFall?\n\n(Estreno en Septiembre)",
-      "sortOrder": 100,
-      "logicalHash": "93f6c6f0ccb1e92469c0f5c3a85f64576d7a3c44f5c3de3367ece952b0b93f59",
-      "links": []
     }
   ]
 }
