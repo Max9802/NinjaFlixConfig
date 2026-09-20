@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T20:42:14.750287Z",
+  "generatedAt": "2026-09-20T16:08:24.845464Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "5623c3a0e2d061c799488e056f891c72abbf4d36655a2404e461bb48300910c8",
+  "logicalHash": "d4e5675745ed22cd107abb039b65a619cbe8be89351e1286c55c4ea2e52adc62",
   "locatorHash": "bed8f8adf2eabd1305d582fed8e4602d51cc8a88afa4b9ab4466743a80ff3147",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "925a8a5e2e8494698ec8120a3325a34559d1b44089ba2fb8a5ea2f18bc6daa80",
+      "logicalHash": "c02ef513d4710fe1a209bf273864739735e160310e5ace0523aed17bee8d9a0c",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -6217,18 +6217,18 @@
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "cddd8d2589d4a1a8912f73a86ef6f243232ba9ae12bd5ce4cf436f06a63223a2",
+          "logicalHash": "224d0e157cb624f32410eab8344dce8680017fb07b13856cb9acea3ce2361a63",
           "artworkPath": "covers/ninjago__prime-empire.webp",
           "episodes": [
             {
               "id": "ninjago/prime-empire/e001",
               "number": 1,
               "title": "NINJAGO Ep 1 Bailemos",
-              "synopsis": "(Este corto se tiene que ver antes del 1er episodio de la serie)",
+              "synopsis": "(Este corto se tiene que ver antes del 1er episodio de la temporada)",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 1,
-              "logicalHash": "572f80ad67802a263d5a954b457772fb1529a0e1c729d5862e4af71179124eb3",
+              "logicalHash": "574c187e82b6ac336475afcf5ac9db1ed43a997e9108a0d3d0592b2fbac4012a",
               "thumbnailPath": "thumbnails/1LLRehbT-aIyuRaUK8SDfgGSFAPRrEArT.jpg",
               "mediaSources": [
                 {
@@ -6247,11 +6247,11 @@
               "id": "ninjago/prime-empire/e002",
               "number": 2,
               "title": "NINJAGO Ep 2 Actualización",
-              "synopsis": "(Este corto se tiene que ver antes del 1er episodio de la serie)",
+              "synopsis": "(Este corto se tiene que ver antes del 1er episodio de la temporada)",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 2,
-              "logicalHash": "e1e0a2783e49fd7ffef536d5860d623b3167eff639286caa6e7d25fcaa477a6a",
+              "logicalHash": "039556f9696c6824c78ab986528cf1dbe7803b0b7526c8c4062fed1edb321d9b",
               "thumbnailPath": "thumbnails/1n0z1kKf57VE1BoDSjoHZ3BtYYgg4wHIJ.jpg",
               "mediaSources": [
                 {
@@ -6270,11 +6270,11 @@
               "id": "ninjago/prime-empire/e003",
               "number": 3,
               "title": "NINJAGO Ep 3 El Polizón",
-              "synopsis": "(Este corto se tiene que ver antes del 2do episodio de la serie)",
+              "synopsis": "(Este corto se tiene que ver antes del 2do episodio de la temporada)",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 3,
-              "logicalHash": "400514f837c67bfcd00b007ccff07ac1b0de40b821034463843f0626028a76a9",
+              "logicalHash": "f796c3a6dac099d9ac66497bbb07307fd2a8aac31d4bd17e9c35ae508b169429",
               "thumbnailPath": "thumbnails/1WiXEW_LNt9EiE15sj_-ui3rtg2i35D8X.jpg",
               "mediaSources": [
                 {
@@ -6293,11 +6293,11 @@
               "id": "ninjago/prime-empire/e004",
               "number": 4,
               "title": "NINJAGO Ep 4 La Cacería",
-              "synopsis": "(Este corto se tiene que ver antes del 2do episodio de la serie)",
+              "synopsis": "(Este corto se tiene que ver antes del 2do episodio de la temporada)",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 4,
-              "logicalHash": "50fa57ceb0d5ac3f3ee1c8a6d94aeed5f05d6e6468b711a75128de0ae744bc96",
+              "logicalHash": "31d58604361dec123cb4850930474d81411a3174439434b397c36f2926ee78b4",
               "thumbnailPath": "thumbnails/1i3tH_2E3igrKlrHzpLz-XtN7ZZJi3z4s.jpg",
               "mediaSources": [
                 {
@@ -6316,11 +6316,11 @@
               "id": "ninjago/prime-empire/e005",
               "number": 5,
               "title": "NINJAGO Ep 5 Gayle Gossip Una Mirada Más de Cerca",
-              "synopsis": "GAYLE GOSSIP: UNA MIRADA MÁS DE CERCA (EPISODIO 5)\n\n(Este corto se tiene que ver antes del 3er episodio de la serie)",
+              "synopsis": "GAYLE GOSSIP: UNA MIRADA MÁS DE CERCA (EPISODIO 5)\n\n(Este corto se tiene que ver antes del 3er episodio de la temporada)",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 5,
-              "logicalHash": "cc04b75de3214641441df57db11fa904a7f01e86b769c3309c0213c9ebfac2b3",
+              "logicalHash": "42b9ef91602dca379bae425794f7b1f8385f0f5128b7d48ed46910ba1c7228db",
               "thumbnailPath": "thumbnails/1M-SWHvphatcHuCoE0Jh4EKq_XN9qvbHG.jpg",
               "mediaSources": [
                 {
@@ -6339,11 +6339,11 @@
               "id": "ninjago/prime-empire/e006",
               "number": 6,
               "title": "NINJAGO Ep 6 El Significado de la Victoria",
-              "synopsis": "EL SIGNIFICADO DE LA VICTORIA (EPISODIO 6)\n\n(Este corto se tiene que ver antes del 9no episodio de la serie)",
+              "synopsis": "EL SIGNIFICADO DE LA VICTORIA (EPISODIO 6)\n\n(Este corto se tiene que ver antes del 9no episodio de la temporada)",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 6,
-              "logicalHash": "665df31580eb6fe86a53fc657c82d364a0463352185149926847e03e1f3d2aef",
+              "logicalHash": "02b19ffc86e07b3108bdafd6e8e2a87896e211386b48346e04abd934be8e8775",
               "thumbnailPath": "thumbnails/1j0oMN8U3clWmdm7K_RQrMKz5PlcltWB1.jpg",
               "mediaSources": [
                 {
@@ -8578,9 +8578,9 @@
       "id": "orden-cronologico",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/orden-cronol%C3%B3gico",
       "title": "Orden cronológico",
-      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios\n\n4C) Lego Ninjago \"Shadow of Ronin\" (Semi canon, presentación del personaje Ronin)\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) Seabound (Temporada 15)\n\n21) Crystalized (Temporada 16)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n29) Legends: Duskfall (próximamente)\n\n30) Dragons Rising (Temporada 5) (2027)\n\n-La biblioteca elemental",
+      "body": "LEGO NINJAGO: MAESTROS DEL SPINJITZU (ORDEN CRONOLÓGICO)\n\nCuadro para descargar el listado: https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN\n\n0) Piloto (Temporada 0)\n\n0A) Episodios\n\n0B) Los cortos 1-5\n\n1) El ascenso de las serpientes (Temporada 1)\n\n2) El legado del ninja verde (Temporada 2)\n\n3) Reinicio (Temporada 3)\n\n4) Torneo de los elementos (Temporada 4)\n\n4A) La silla de Chen (opcional, no canon)\n\n4B) Episodios\n\n4C) Lego Ninjago \"Shadow of Ronin\" (Semi canon, presentación del personaje Ronin)\n\n5) La posesión (Temporada 5)\n\n6) Los piratas del aire (Temporada 6)\n\n6A) Cuentos fantásticos (Corto, opcional, no canon)\n\n6B) Episodios\n\n7) ESPECIAL: Día de los difuntos\n\n7A) El regreso de los villanos (Corto, opcional, no canon)\n\n7B) Día de los difuntos\n\n8) Los tes de Wu (Cortos, opcional, no canon)\n\n9) Las manecillas del tiempo (Temporada 7)\n\n9A) Episodio 1-4\n\n9B) Operación Heavy Metal (Corto)\n\n9C) Episodio 5-7\n\n9D) El ascenso del Samurai X (Corto)\n\n9E) Episodio 8-10\n\n10) Decoded (opcional)\n\nExtra: La película (No canon a la serie)\n\n11) Hijos de Garmadon (Temporada 8)\n\n12) Cacería (Temporada 9)\n\n13) La marcha de los Onis (Temporada 10)\n\n13A) Los cuentos en el monasterio (Corto)\n\n13B) Episodios\n\n14) Los secretos del Spinjitzu prohibido (Temporada 11)\n\n15) Primer Imperio (Temporada 12)\n\n15A) Corto 1-2\n\n15B) Episodio 1\n\n15C) Corto 3-4\n\n15D) Episodio 2\n\n15E) Corto 5\n\n15F) Episodio 3-8\n\n15G) Corto 6\n\n15H) Episodio 9-16\n\n16) Maestros de la montaña (Temporada 13)\n\n17) NINJAGO LEGACY (Aniversario N10, Cortos)\n\n18) La isla (Temporada 14)\n\n19) Las virtudes del Spinjitzu (Cortos, opcional)\n\n20) Seabound (Temporada 15)\n\n21) Crystalized (Temporada 16)\n\n22) Crossover: Lego Ninjago X Lego Dreamzzz (Opcional, no canon)\n\n23A) Dragons Rising (Temporada 1)\n\n23B) Legends: Monstrosity.\n\n24) Dragons Rising (Temporada 2)\n\n24A) Los mechs elementales (Cortos)\n\n24B) Episodio 1-10\n\n24C) El regreso a Wyldness (Corto)\n\n24D) Episodio 11-20\n\n25) Legends: Monstrosity: El viaje monstruoso de Kai (Corto)\n\n26) Dragons Rising (Temporada 3)\n\n27) Cortos del aniversario N15 (Cortos)\n\n28) Dragons Rising (Temporada 4)\n\n29) Legends: Duskfall\n\n30) Dragons Rising (Temporada 5) (2027)\n\n-La biblioteca elemental",
       "sortOrder": 10,
-      "logicalHash": "8f81730696a5c9f56745c338ccaf8ddaa9d0320c35b157718527de50994c7a8e",
+      "logicalHash": "aaa959316c8726d96a32c1610c046974b3fc995874ef55ffb6e3edb33c6f17dd",
       "links": [
         {
           "label": "https://1drv.ms/w/c/2a13f7b3deb4b67b/IQDftj8R7PieQ6jCyp82iBAqAcbz_gNZCI1nF0Ra1mzu9d8?e=9psmiN",
@@ -8755,7 +8755,7 @@
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/dragons-rising-temporada-4"
         },
         {
-          "label": "29) Legends: Duskfall (próximamente)",
+          "label": "29) Legends: Duskfall",
           "url": "https://sites.google.com/view/labibliotecaelementalninjago/dsukfall"
         }
       ]
