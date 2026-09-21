@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T20:51:03.199586Z",
+  "generatedAt": "2026-09-21T04:58:11.678552Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "f81bb72179052d3416fc88879841b0dce9e888298e931b7d1124ff2ee8f5cb11",
-  "locatorHash": "e3220088d9f2686da75419655fe19db7431a807356fb6144706e5078440a0962",
+  "logicalHash": "b01751f1be7fac7f54bfff03e11433cd64b182c3256db05cef7f92a7e580d2ef",
+  "locatorHash": "09cd6152bbc8a9351a332be60a9b494b916ff0c54b9cbdb3e8acecec31f821a1",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "c02ef513d4710fe1a209bf273864739735e160310e5ace0523aed17bee8d9a0c",
+      "logicalHash": "069933f107821cfc41f5f9d22e5d87e5b09f53c75cd103221199ba6d07d4c10b",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -5346,7 +5346,7 @@
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "d3c08e0bb6443c6583f2e0676aa3c3c3f0e747387cdceeeb51bec1532c9bbb6a",
+          "logicalHash": "c430651713c4565e2f226323817ff614a0d9b1c793fab839263df10ee886d230",
           "artworkPath": "covers/ninjago__15-anos-de-ninjago.webp",
           "episodes": [
             {
@@ -5668,6 +5668,52 @@
                   "thumbnailUrl": "https://lh3.google.com/u/0/d/1YfFTiwM8ydZWdiHnUDky-XtjDrS5hUpA=s2048?auditContext=thumbnail",
                   "thumbnailPath": "thumbnails/1YfFTiwM8ydZWdiHnUDky-XtjDrS5hUpA.jpg",
                   "locatorHash": "9c8f6a892c19ec9f2b1516e206c5bf75557dba7a86a987b0181a9f44445955f8"
+                }
+              ]
+            },
+            {
+              "id": "ninjago/15-anos-de-ninjago/e015",
+              "number": 15,
+              "title": "El legado de las serpientes",
+              "synopsis": "",
+              "kind": "episode",
+              "availability": "available",
+              "sortOrder": 15,
+              "logicalHash": "4ceb32892b40943baf3937164ffa3d77d8a71d838e70952370d2696bee28279e",
+              "thumbnailPath": "thumbnails/1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp.jpg",
+              "mediaSources": [
+                {
+                  "provider": "google_drive",
+                  "remoteId": "1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp",
+                  "openUrl": "https://drive.google.com/open?id=1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp",
+                  "previewUrl": "https://drive.google.com/file/d/1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1MgaZfQ_bepuRVnO76MKsOxS7Iga30bXp.jpg",
+                  "locatorHash": "16e6e984b1468d5d65bcdbba268fd10a8e8d6c89d7bc01cece2d67152bb1d833"
+                }
+              ]
+            },
+            {
+              "id": "ninjago/15-anos-de-ninjago/e016",
+              "number": 16,
+              "title": "La leyenda de los onis",
+              "synopsis": "",
+              "kind": "episode",
+              "availability": "available",
+              "sortOrder": 16,
+              "logicalHash": "0d75a6465325a7a5ff056c9faa38bc6473864481e57ed3c9ec67f274dd83db84",
+              "thumbnailPath": "thumbnails/1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr.jpg",
+              "mediaSources": [
+                {
+                  "provider": "google_drive",
+                  "remoteId": "1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr",
+                  "openUrl": "https://drive.google.com/open?id=1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr",
+                  "previewUrl": "https://drive.google.com/file/d/1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr&sz=w339-h191-p-k-nu",
+                  "thumbnailPath": "thumbnails/1Ya7wieNYpRHPmvBbXEXWau3mE0eWNvlr.jpg",
+                  "locatorHash": "62712619e8f8e31ec90e4531391c803a8354755c92deac7960c60fa6266bf8a9"
                 }
               ]
             }
