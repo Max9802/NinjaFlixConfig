@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T04:58:11.678552Z",
+  "generatedAt": "2026-09-23T21:31:15.181623Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "b01751f1be7fac7f54bfff03e11433cd64b182c3256db05cef7f92a7e580d2ef",
-  "locatorHash": "09cd6152bbc8a9351a332be60a9b494b916ff0c54b9cbdb3e8acecec31f821a1",
+  "logicalHash": "23634e608c7674fa30303c6e58fd7b2ee7c879c1529d32541587d367eeec3b50",
+  "locatorHash": "8c68831b13f38786d25d1edd8765dbf06cf4a535970bb99dd5c5adf3fd36c492",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "069933f107821cfc41f5f9d22e5d87e5b09f53c75cd103221199ba6d07d4c10b",
+      "logicalHash": "19fa540f6bb793727dfc62c4ea07c374a6e910b91dd9d0b8968ba2104be5b143",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -6152,7 +6152,7 @@
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "aae3a347e1afbf9bf59499a8bb33cfce018443beb5a77bc6e015f5bd3e1aba59",
+          "logicalHash": "cc682d16f7b26f98f0df9892b1e9cdf3ca9bb8425b3d0b4edc45afbc291b24f6",
           "artworkPath": "covers/ninjago__el-regreso-a-wyldness.webp",
           "episodes": [
             {
@@ -6175,6 +6175,29 @@
                   "thumbnailUrl": "https://lh3.google.com/u/0/d/14DWhI_LSI5JBZH5lQ7cvTHLiqsSxVScE=s2048?auditContext=thumbnail",
                   "thumbnailPath": "thumbnails/14DWhI_LSI5JBZH5lQ7cvTHLiqsSxVScE.jpg",
                   "locatorHash": "7866a55a562a050ff56cda89e4284510a6759b3cc107498640485f3a2de7f52b"
+                }
+              ]
+            },
+            {
+              "id": "ninjago/el-regreso-a-wyldness/e002",
+              "number": 2,
+              "title": "Historias de Wyldfyre",
+              "synopsis": "",
+              "kind": "episode",
+              "availability": "available",
+              "sortOrder": 2,
+              "logicalHash": "4bdf99d03d8a8e7f3a4fe0c73fd214595e37c24f6861a703f0eef027a0512d6d",
+              "thumbnailPath": "thumbnails/1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk.jpg",
+              "mediaSources": [
+                {
+                  "provider": "google_drive",
+                  "remoteId": "1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk",
+                  "openUrl": "https://drive.google.com/open?id=1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk",
+                  "previewUrl": "https://drive.google.com/file/d/1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk/preview",
+                  "downloadUrl": "https://drive.google.com/uc?id=1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk&export=download",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk&sz=w590-h377-p-k-nu",
+                  "thumbnailPath": "thumbnails/1ewb8QE4_LTZdrTaRO56w3PmvrqKUo8yk.jpg",
+                  "locatorHash": "bb4214f046bfded90d038f81fe4a92a0954c28c315fcec9881a958fe3bf34251"
                 }
               ]
             }
