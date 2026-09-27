@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T21:31:15.181623Z",
+  "generatedAt": "2026-09-27T16:59:16.865125Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "23634e608c7674fa30303c6e58fd7b2ee7c879c1529d32541587d367eeec3b50",
+  "logicalHash": "c67e967b166ec8c74e349f133117dce790fcecc089addb5a6046c1353353735e",
   "locatorHash": "8c68831b13f38786d25d1edd8765dbf06cf4a535970bb99dd5c5adf3fd36c492",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "19fa540f6bb793727dfc62c4ea07c374a6e910b91dd9d0b8968ba2104be5b143",
+      "logicalHash": "7f882ffd2a82146e903fdb2f356cb17ab08b6c949332db46859992e82d78d2f7",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -4541,11 +4541,11 @@
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/cristalizados",
           "sourcePageKey": "cristalizados",
           "title": "Crystalized",
-          "synopsis": "Un grupo llamado Los Nuevos Ninja aparece en la ciudad de Ninjago, luchando contra los contrabandistas vengativos. El equipo ninja ha perdido la fe y se ha separado. Nya vaga por el Mar Infinito como un dragón de agua, pero comienza a recuperar sus recuerdos. Se encuentra con un elemental de agua llamado Nyad, que la ayuda a encontrar el camino de regreso a casa. Los ninjas se reúnen y descubren un cargamento secreto de venganza en un túnel del metro. Se ven obligados a luchar contra Miss Demeanor y sus matones, pero son humillados cuando los New Ninja derrotan a los villanos.",
+          "synopsis": "Un grupo llamado Los Nuevos Ninja aparece en la ciudad de Ninjago, luchando contra los contrabandistas de Vengestone. El equipo ninja ha perdido la fe y se ha separado. Nya vaga por el Mar Infinito como un dragón de agua, pero comienza a recuperar sus recuerdos. Se encuentra con un elemental de agua llamado Nyad, que la ayuda a encontrar el camino de regreso a casa. Los ninjas se reúnen y descubren un cargamento secreto de vengestone en un túnel del metro. Se ven obligados a luchar contra Miss Demeanor y sus matones, pero son humillados cuando los New Ninja derrotan a los villanos.",
           "displayNumber": 16,
           "canonicalCode": 16,
           "sortOrder": 16,
-          "logicalHash": "92043dc4a6929818ad4380f7fba8afd26ed41bcfe024483caea61bcc9280be19",
+          "logicalHash": "83c492e333cf54c2af63a4bd6ec6fb28f551309cafaacfe64293f48307aac559",
           "artworkPath": "covers/ninjago__cristalizados.webp",
           "episodes": [
             {
