@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T16:59:16.865125Z",
+  "generatedAt": "2026-10-20T21:38:30.309868Z",
   "source": "https://sites.google.com/view/labibliotecaelementalninjago/",
-  "logicalHash": "c67e967b166ec8c74e349f133117dce790fcecc089addb5a6046c1353353735e",
-  "locatorHash": "8c68831b13f38786d25d1edd8765dbf06cf4a535970bb99dd5c5adf3fd36c492",
+  "logicalHash": "0ba1dc83178b3dcf290e4dd9463e0a1859e9fc3677cdb139a08bc8889fac0842",
+  "locatorHash": "9b6b0506c5f5a8fdf312ac20c063339d7cf1eab586a3255fa1fb936527e3f6b8",
   "series": [
     {
       "id": "ninjago",
       "title": "Ninjago",
       "sortOrder": 0,
-      "logicalHash": "7f882ffd2a82146e903fdb2f356cb17ab08b6c949332db46859992e82d78d2f7",
+      "logicalHash": "b0d5cf9a03d3baee0f2f24e8a8bae3baf5d31f7067191d50191ce537a6f395ee",
       "seasons": [
         {
           "id": "ninjago/piloto",
@@ -2470,11 +2470,11 @@
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/los-secretos-del-spinjitzu-prohibido",
           "sourcePageKey": "los-secretos-del-spinjitzu-prohibido",
           "title": "Los secretos del spinjitzu prohibido",
-          "synopsis": "Disfrutando de la gloria de su victoria de hace 6 meses, los Ninja se embarcan en una nueva aventura para explorar una misteriosa pirámide, solo para descansar un poco y recuperarse, por supuesto. Pero, ¿el éxito ha adormecido a nuestros héroes con una falsa sensación de seguridad? Cuando los Ninja liberaron accidentalmente a una antigua amenaza llamada Pyro Vipers, nada podría haberlos preparado para el caos que sigue.",
+          "synopsis": "Disfrutando de la gloria de su victoria de hace 6 meses, los Ninja se embarcan en una nueva aventura para explorar una misteriosa pirámide, solo para descansar un poco y recuperarse, por supuesto. Pero, ¿el éxito ha adormecido a nuestros héroes con una falsa sensación de seguridad? Cuando los Ninja liberaron accidentalmente a una antigua amenaza llamada Pyro Vipers, nada podría haberlos preparado para el caos que sigue-",
           "displayNumber": 11,
           "canonicalCode": 11,
           "sortOrder": 11,
-          "logicalHash": "dfbb19562d45f606c8148719254fc859e01bbbd1ca3704670e6a5be0eec014c1",
+          "logicalHash": "680b69af314071a6bfc725bec6c169aeb2396012598ee6157ec20d064d6baa29",
           "artworkPath": "covers/ninjago__los-secretos-del-spinjitzu-prohibido.webp",
           "episodes": [
             {
@@ -5992,7 +5992,7 @@
                   "openUrl": "https://drive.google.com/open?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ",
                   "previewUrl": "https://drive.google.com/file/d/1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ/preview",
                   "downloadUrl": "https://drive.google.com/uc?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ&sz=w590-h377-p-k-nu",
+                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ&sz=w715-h470-p-k-nu",
                   "thumbnailPath": "thumbnails/1hz9k-OK6F4e78-6oJpoHPe4QAJiNESkZ.jpg",
                   "locatorHash": "20e845cd6d5f54294aef08d493a9af21b20331f98e43667ad14864b3a8227520"
                 }
@@ -6776,22 +6776,22 @@
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/crossover",
           "sourcePageKey": "crossover",
           "title": "crossover",
-          "synopsis": "",
+          "synopsis": "Cuando los Ninjas encuentran a un niño, Jan, bajo el ataque de extrañas criaturas de sombra, saltan a la acción. Pero sus habilidades de lucha resultan inútiles contra los poderes de sus nuevos enemigos y Jan es capturada.\n\nJusto cuando la esperanza comienza a desvanecerse, los cazadores de sueños llegan para ayudar. Juntos, cambian el rumbo, solo para descubrir que en realidad están en el sueño de Jan. Ahora, unido a los cazadores de sueños, los Ninjas deben liberar a Jan y el mundo de los sueños del siniestro Rey de las Pesadillas.",
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "a87be110d2eec6e3290ffda414c441bc8460364305755de913b12a5aaa399bc2",
+          "logicalHash": "c9c5f517d1939fabf342741292d55f2854f5f6ed9fb70efdb0a777165f6371f8",
           "artworkPath": "covers/ninjago__crossover.webp",
           "episodes": [
             {
               "id": "ninjago/crossover/e001",
               "number": 1,
               "title": "Ninjas y Buscadores de Sueños, ¡únanse! _ Ver ahora",
-              "synopsis": "Cuando los Ninjas encuentran a un niño, Jan, bajo el ataque de extrañas criaturas de sombra, saltan a la acción. Pero sus habilidades de lucha resultan inútiles contra los poderes de sus nuevos enemigos y Jan es capturada.\n\nJusto cuando la esperanza comienza a desvanecerse, los cazadores de sueños llegan para ayudar. Juntos, cambian el rumbo, solo para descubrir que en realidad están en el sueño de Jan. Ahora, unido a los cazadores de sueños, los Ninjas deben liberar a Jan y el mundo de los sueños del siniestro Rey de las Pesadillas.",
+              "synopsis": "",
               "kind": "special",
               "availability": "available",
               "sortOrder": 1,
-              "logicalHash": "aafce846a27efaa9ca94b3b45caf306f3ff3e4a231d0e134a3f40abd0fdf5723",
+              "logicalHash": "e7d5ec705948c8d5768f5f2b8d1e0751a08ee95d54e8fac640c46bd55ef3986d",
               "thumbnailPath": "thumbnails/13C07PLTVXr5ZXpIMuR9NqZetukHPJP24.jpg",
               "mediaSources": [
                 {
@@ -6817,7 +6817,7 @@
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "418148c11f0fc9fa0408c58e0bdca299999f1f06d131005f9f5732e661c4898c",
+          "logicalHash": "a19d3ed36de7c0f6b7e515ff9ce9127c51fe12161c752bf7fce1846b8a715954",
           "artworkPath": "covers/ninjago__la-pelicula.webp",
           "episodes": [
             {
@@ -6888,29 +6888,6 @@
                   "locatorHash": "977d0a932ff538951a5b296cc3805218be23017f8ae41266812fa41930f5746c"
                 }
               ]
-            },
-            {
-              "id": "ninjago/la-pelicula/e004",
-              "number": 4,
-              "title": "Ninjago La Película Corto El Maestro Español Latino",
-              "synopsis": "",
-              "kind": "movie",
-              "availability": "available",
-              "sortOrder": 4,
-              "logicalHash": "1c745d571e6ed24f4e503a6dd15bc8c3f9849187d027239d09d6e9872e75489c",
-              "thumbnailPath": "thumbnails/1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12.jpg",
-              "mediaSources": [
-                {
-                  "provider": "google_drive",
-                  "remoteId": "1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12",
-                  "openUrl": "https://drive.google.com/open?id=1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12",
-                  "previewUrl": "https://drive.google.com/file/d/1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12/preview",
-                  "downloadUrl": "https://drive.google.com/uc?id=1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12&export=download",
-                  "thumbnailUrl": "https://drive.google.com/thumbnail?id=1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12&sz=w464-h201-p-k-nu",
-                  "thumbnailPath": "thumbnails/1RBnWIbuL7smt0Z4T4d_OhwoC4NeRFs12.jpg",
-                  "locatorHash": "bbb9ccdd133567c0ba048a4e1f820cbe99f938b07d17c1e6d21d82f4055e6806"
-                }
-              ]
             }
           ]
         },
@@ -6919,11 +6896,11 @@
           "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/legacy",
           "sourcePageKey": "legacy",
           "title": "legacy",
-          "synopsis": "Estos cortos también son opcionales, aunque unos que otros cortos explican cosas de la historia de la serie. (La parte 6 es recomendable ver ya que nos explica el por qué los Dragones de 4 cabezas dejaron de aparecer)",
+          "synopsis": "Estos cortos también son opcionales, aunque unos que otros cortos explican cosas de la historia de la serie. (La parte 6 es recomendable ver ya que nos explica el por qué el Dragón de 4 cabezas dejaron de aparecer)",
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "d2f4ed1b5d9b5233861d43d270c9358ad726d3ded5152f5477e8b0048ebbc579",
+          "logicalHash": "e97f4c16ebc68baa879fd153ba46383d9d281a5c1dc8a80a7947334bc3506cee",
           "artworkPath": "covers/ninjago__legacy.webp",
           "episodes": [
             {
@@ -7075,18 +7052,18 @@
           "displayNumber": null,
           "canonicalCode": null,
           "sortOrder": 1000,
-          "logicalHash": "d32fb55a1c19152a16eb621641cc21f172056c8c89105603f2419f75031bc738",
+          "logicalHash": "a01b432635b7764f4b083a44dc51d491d0f157794dac96bb1204ce76892aed10",
           "artworkPath": "covers/ninjago__feliz-cumpleanos.webp",
           "episodes": [
             {
               "id": "ninjago/feliz-cumpleanos/e001",
               "number": 1,
               "title": "Felíz Cumpleaños LEGO NINJAGO Español Latino HD",
-              "synopsis": "Los héroes de LEGO Ninjago, Kai, Zane, Jay y Cole, quieren desearte un muy feliz cumpleaños, ¡pero necesitarán todas sus habilidades de Spinjitzu para lograrlo!",
+              "synopsis": "",
               "kind": "episode",
               "availability": "available",
               "sortOrder": 1,
-              "logicalHash": "8321577ea87bd3c0f7476484eeb17327c079de20e8639d3cb82cd9e71fa453ef",
+              "logicalHash": "3cb4ce0677472d3be2e7b374ec33ada6ec7e8f70f0d863cbbea1e6c8a9ec8324",
               "thumbnailPath": "thumbnails/1LAz2DoIGiBqWPHkmu0Q5eVtOSf5b_UzL.jpg",
               "mediaSources": [
                 {
@@ -9015,9 +8992,9 @@
       "id": "inicio",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/inicio",
       "title": "Inicio",
-      "body": "LA BIBLIOTECA ELEMENTAL\n\nNINJAGO INFORMATION\n\nBienvenidos a La Biblioteca Elemental, el rincón definitivo para los fans de Ninjago. Aquí encontrarás el archivo más completo de todas las temporadas, desde los clásicos hasta Dragons Rising. Nuestro objetivo es que ningún ninja se pierda ni un detalle de la historia, con episodios actualizados y toda la información de Ninjago\n\n¡¡Recuerden que tienen la sección de Orden Cronológico para que los nuevos no se pierdan de nada!!\n\n‼️ JUEGO DE \"LEGO NINJAGO: SHADOW OF RONIN\" YA INCLUIDO EN EL SITIO WEB‼️\n\nPILOTO (TEMPORADA 0)\n\nEl ASCENSO DE LAS SERPIENTES (TEMPORADA 1)\n\nEL LEGADO DEL NINJA VERDE (TEMPORADA 2)\n\nREBOOTED (TEMPORADA 3)\n\nEL TORNEO DE LOS ELEMENTOS (TEMPORADA 4)\n\nLA POSESIÓN (TEMPORADA 5)\n\nSKYBOUND (TEMPORADA 6)\n\nESPECIAL: DÍA DE LOS DIFUNTOS\n\nLAS MANECILLAS DEL TIEMPO (TEMPORADA 7)\n\nHIJOS DE GARMADON (TEMPORADA 8)\n\nCACERÍA (TEMPORADA 9)\n\nLA MARCHA DE LOS ONIS (TEMPORADA 10)\n\nLOS SECRETOS DEL SPINJITZU PROHIBIDO (TEMPORADA 11)\n\nPRIME EMPIRE (TEMPORADA 12)\n\nMAESTROS DE LA MONTAÑA (TEMPORADA 13)\n\nLA ISLA (TEMPORADA 14)\n\nSEABOUND (TEMPORADA 15)\n\nCRYSTALIZED (TEMPORADA 16)\n\nDRAGONS RISING (TEMPORADA 1)\n\nDRAGONS RISING (TEMPORADA 2)\n\nDRAGONS RISING (TEMPORADA 3)\n\nDRAGONS RISING (TEMPORADA 4)\n\nRedes sociales para seguirnos o dar un aviso de una falla en la página:\n\nFacebook:\n\nPagina de Facebook con más de 20.000 seguidores: Facebook\n\nGrupo de Facebook: https://www.facebook.com/share/g/1BTURmeaMM/\n\nMuchas gracias por elegirnos, los queremos.\n\nY recueden: \"Un ninja jamás se rinde\".",
+      "body": "LA BIBLIOTECA ELEMENTAL\n\nNINJAGO INFORMATION\n\nBienvenidos a La Biblioteca Elemental, el rincón definitivo para los fans de Ninjago. Aquí encontrarás el archivo más completo de todas las temporadas, desde los clásicos hasta Dragons Rising. Nuestro objetivo es que ningún ninja se pierda ni un detalle de la historia, con episodios actualizados y toda la información de Ninjago\n\n¡¡Recuerden que tienen la sección de Orden Cronológico para que los nuevos no se pierdan de nada!!\n\nPILOTO (TEMPORADA 0)\n\nEl ASCENSO DE LAS SERPIENTES (TEMPORADA 1)\n\nEL LEGADO DEL NINJA VERDE (TEMPORADA 2)\n\nREBOOTED (TEMPORADA 3)\n\nEL TORNEO DE LOS ELEMENTOS (TEMPORADA 4)\n\nLA POSESIÓN (TEMPORADA 5)\n\nSKYBOUND (TEMPORADA 6)\n\nESPECIAL: DÍA DE LOS DIFUNTOS\n\nLAS MANECILLAS DEL TIEMPO (TEMPORADA 7)\n\nHIJOS DE GARMADON (TEMPORADA 8)\n\nCACERÍA (TEMPORADA 9)\n\nLA MARCHA DE LOS ONIS (TEMPORADA 10)\n\nLOS SECRETOS DEL SPINJITZU PROHIBIDO (TEMPORADA 11)\n\nPRIME EMPIRE (TEMPORADA 12)\n\nMAESTROS DE LA MONTAÑA (TEMPORADA 13)\n\nLA ISLA (TEMPORADA 14)\n\nSEABOUND (TEMPORADA 15)\n\nCRYSTALIZED (TEMPORADA 16)\n\nDRAGONS RISING (TEMPORADA 1)\n\nDRAGONS RISING (TEMPORADA 2)\n\nDRAGONS RISING (TEMPORADA 3)\n\nDRAGONS RISING (TEMPORADA 4)\n\nRedes sociales para seguirnos o dar un aviso de una falla en la página:\n\nFacebook:\n\nPagina de Facebook con más de 20.000 seguidores: Facebook\n\nGrupo de Facebook: https://www.facebook.com/share/g/1BTURmeaMM/\n\nMuchas gracias por elegirnos, los queremos.\n\nY recueden: \"Un ninja jamás se rinde\".",
       "sortOrder": 0,
-      "logicalHash": "8b9ef71a8321e2569da529e7fccf1e5b10f5eb99d4dfbe54a9192f0aea265410",
+      "logicalHash": "d96e6631ba1b6b007f7048d2c9cad36badb70d66bad12def98289c3d53ded850",
       "links": [
         {
           "label": "PILOTO (TEMPORADA 0)",
@@ -9307,9 +9284,9 @@
       "id": "comics",
       "sourceUrl": "https://sites.google.com/view/labibliotecaelementalninjago/c%C3%B3mics",
       "title": "Cómics",
-      "body": "Era antígua\n\nPilotos\n\nEl ascenso de las serpientes\n\nCómics clásicos\n\nFantasmas, piratas\n\nLa Isla Oscura\n\nGarmadon\n\nLibros de Lore\n\nEra moderna\n\nStrike of the serpentine",
+      "body": "Todos los cómics de la franquicia de la serie\n\nEra antígua\n\nPilotos\n\nEl ascenso de las serpientes\n\nCómics clásicos\n\nFantasmas, piratas\n\nLa Isla Oscura\n\nGarmadon\n\nLibros de Lore\n\nEra moderna\n\nStrike of the serpentine",
       "sortOrder": 20,
-      "logicalHash": "0736e99774186a52eef8fb12d170a999174b7685ccb49e11af117c060cf8c37e",
+      "logicalHash": "e437cc7344beac66eb3de2b46d941bca2acffb93bbb5bf7db946e4dac130615a",
       "links": [
         {
           "label": "Era antígua",
